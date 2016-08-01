@@ -2,11 +2,11 @@
  - LITH M1 RELIC
 
 Rotation A:
-  1 МЭГ ПРАЙМ ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 ЛЕКС ПРАЙМ: ПРИЁМНИК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 SOMA PRIME ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 15 Ducats
-  1 ДАКРА ПРАЙМ ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 ВЕПРЬ ПРАЙМ ПРИЁМНИК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 МЭГ ПРАЙМ ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 ЛЕКС ПРАЙМ: ПРИЁМНИК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 SOMA PRIME ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 15 Ducats, Prime
+  1 ДАКРА ПРАЙМ ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 ВЕПРЬ ПРАЙМ ПРИЁМНИК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
@@ -14,11 +14,11 @@ Rotation A:
  - MESO B1 RELIC
 
 Rotation A:
-  1 ВЕПРЬ ПРАЙМ ПРИКЛАД, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 ДАКРА ПРАЙМ HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 МЭГ ПРАЙМ КАРКАС ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 ОРТОС ПРАЙМ: РУКОЯТЬ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ОРТОС ПРАЙМ: ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 ВЕПРЬ ПРАЙМ ПРИКЛАД, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 ДАКРА ПРАЙМ HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 МЭГ ПРАЙМ КАРКАС ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 ОРТОС ПРАЙМ: РУКОЯТЬ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ОРТОС ПРАЙМ: ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
@@ -26,11 +26,11 @@ Rotation A:
  - NEO D1 RELIC
 
 Rotation A:
-  1 ДАКРА ПРАЙМ КЛИНОК, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 МЭГ ПРАЙМ СИСТЕМА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 TRINITY PRIME НЕЙРООПТИКА ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
-  1 VASTO PRIME СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ВЕПРЬ ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ДАКРА ПРАЙМ КЛИНОК, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 МЭГ ПРАЙМ СИСТЕМА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 TRINITY PRIME НЕЙРООПТИКА ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats, Prime
+  1 VASTO PRIME СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ВЕПРЬ ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, UNCOMMON, I:11%, E:13%, F:17%, R:20%
 
 
@@ -38,47 +38,47 @@ Rotation A:
  - AXI V2 RELIC
 
 Rotation A:
-  1 ВЕКТИС ПРАЙМ ПРИКЛАД, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 ХИКО ПРАЙМ КИСЕТ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 БРЭЙТОН ПРАЙМ ПРИЁМНИК, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 TRINITY PRIME СИСТЕМА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 МЭГ ПРАЙМ НЕЙРООПТИКА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ВЕПРЬ ПРАЙМ СТВОЛ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 ВЕКТИС ПРАЙМ ПРИКЛАД, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 ХИКО ПРАЙМ КИСЕТ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 БРЭЙТОН ПРАЙМ ПРИЁМНИК, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 TRINITY PRIME СИСТЕМА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 МЭГ ПРАЙМ НЕЙРООПТИКА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ВЕПРЬ ПРАЙМ СТВОЛ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
 
 
 [VoidKeyMissionRewards/MagPrimeVaultEnd]
  - AXI V3 RELIC
 
 Rotation A:
-  1 ВЕКТИС ПРАЙМ ПРИКЛАД, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 ОРТОС ПРАЙМ: ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 БРЭЙТОН ПРАЙМ ПРИЁМНИК, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 TRINITY PRIME НЕЙРООПТИКА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
-  1 VASTO PRIME СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 TRINITY PRIME СИСТЕМА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ВЕКТИС ПРАЙМ ПРИКЛАД, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 ОРТОС ПРАЙМ: ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 БРЭЙТОН ПРАЙМ ПРИЁМНИК, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 TRINITY PRIME НЕЙРООПТИКА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats, Prime
+  1 VASTO PRIME СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 TRINITY PRIME СИСТЕМА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinCaptureRewardsA]
  - LITH S1 RELIC
 
 Rotation A:
-  1 ПАРИС ПРАЙМ РУКОЯТЬ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 ПАРИС ПРАЙМ РУКОЯТЬ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 ПАРИС ПРАЙМ ТЕТИВА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 СПИРА ПРАЙМ КИСЕТ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 ХИКО ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 БРОНКО ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ПАРИС ПРАЙМ ТЕТИВА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 СПИРА ПРАЙМ КИСЕТ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 ХИКО ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 БРОНКО ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinCaptureRewardsB]
  - MESO D1 RELIC
 
 Rotation A:
-  1 ОРТОС ПРАЙМ: РУКОЯТЬ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ОРТОС ПРАЙМ: РУКОЯТЬ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 ОРТОС ПРАЙМ: КЛИНОК, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 ПАРНЫЕ КАМЫ ПРАЙМ: ЛЕЗВИЕ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 ЧЕРТЁЖ: ЛЕКС ПРАЙМ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ОРТОС ПРАЙМ: КЛИНОК, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 ПАРНЫЕ КАМЫ ПРАЙМ: ЛЕЗВИЕ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 ЧЕРТЁЖ: ЛЕКС ПРАЙМ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
@@ -86,12 +86,12 @@ Rotation A:
  - NEO S1 RELIC
 
 Rotation A:
-  1 SARYN PRIME ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 TRINITY PRIME КАРКАС ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 SARYN PRIME ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 TRINITY PRIME КАРКАС ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 НОСИТЕЛЬ ПРАЙМ ПАНЦИРЬ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ЛЕКС ПРАЙМ: СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 SOMA PRIME ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 НОСИТЕЛЬ ПРАЙМ ПАНЦИРЬ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ЛЕКС ПРАЙМ: СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 SOMA PRIME ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinCaptureRewardsD]
@@ -99,23 +99,23 @@ Rotation A:
 
 Rotation A:
   1 ЧЕРТЁЖ: ФОРМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 БРОНКО ПРАЙМ ПРИЁМНИК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 AKБРОНКО ПРАЙМ LINK, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 БРОНКО ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 SCINDO PRIME КЛИНОК, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 TRINITY PRIME ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 БРОНКО ПРАЙМ ПРИЁМНИК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 AKБРОНКО ПРАЙМ LINK, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 БРОНКО ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 SCINDO PRIME КЛИНОК, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 TRINITY PRIME ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinDefenseRewardsA]
  - LITH S2 RELIC
 
 Rotation A:
-  1 SOMA PRIME ПРИКЛАД, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 НОСИТЕЛЬ ПРАЙМ СИСТЕМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 SOMA PRIME ПРИКЛАД, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 НОСИТЕЛЬ ПРАЙМ СИСТЕМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 AKБРОНКО ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 NYX PRIME ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 KAVASA PRIME BAND, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 AKБРОНКО ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 NYX PRIME ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 KAVASA PRIME BAND, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
 
 Rotation B:
   1 "", COMMON, I:100%, E:100%, F:100%, R:100%
@@ -125,35 +125,35 @@ Rotation B:
  - MESO N1 RELIC
 
 Rotation A:
-  1 КЛЫКИ ПРАЙМ: РУКОЯТЬ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 БРЭЙТОН ПРАЙМ ПРИКЛАД, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ЧЕРТЁЖ: КЛЫКИ ПРАЙМ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 КЛЫКИ ПРАЙМ: РУКОЯТЬ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 БРЭЙТОН ПРАЙМ ПРИКЛАД, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ЧЕРТЁЖ: КЛЫКИ ПРАЙМ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 ЧЕРТЁЖ: НИКС ПРАЙМ: НЕЙРООПТИКА, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 ПАРНЫЕ КАМЫ ПРАЙМ: РУКОЯТЬ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 ЧЕРТЁЖ: НИКС ПРАЙМ: НЕЙРООПТИКА, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 ПАРНЫЕ КАМЫ ПРАЙМ: РУКОЯТЬ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinDefenseRewardsC]
  - NEO S2 RELIC
 
 Rotation A:
-  1 NYX PRIME СИСТЕМА ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 15 Ducats
-  1 SARYN PRIME КАРКАС ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 БЁРСТОН ПРАЙМ ПРИКЛАД, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ПАРИС ПРАЙМ НИЖНЕЕ ПЛЕЧО, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 НОВА ПРАЙМ СИСТЕМА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ПАРИС ПРАЙМ ВЕРХНЕЕ ПЛЕЧО, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+  1 NYX PRIME СИСТЕМА ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 15 Ducats, Prime
+  1 SARYN PRIME КАРКАС ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 БЁРСТОН ПРАЙМ ПРИКЛАД, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ПАРИС ПРАЙМ НИЖНЕЕ ПЛЕЧО, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 НОВА ПРАЙМ СИСТЕМА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ПАРИС ПРАЙМ ВЕРХНЕЕ ПЛЕЧО, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinDefenseRewardsD]
  - AXI V1 RELIC
 
 Rotation A:
-  1 ODONATA PRIME СИСТЕМА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ВОБАН ПРАЙМ КАРКАС ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 НОСИТЕЛЬ ПРАЙМ СИСТЕМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ПАРНЫЕ КАМЫ ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ВОЛЬТ ПРАЙМ НЕЙРООПТИКА ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 ODONATA PRIME СИСТЕМА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ВОБАН ПРАЙМ КАРКАС ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 НОСИТЕЛЬ ПРАЙМ СИСТЕМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ПАРНЫЕ КАМЫ ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ВОЛЬТ ПРАЙМ НЕЙРООПТИКА ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, UNCOMMON, I:11%, E:13%, F:17%, R:20%
 
 
@@ -161,35 +161,35 @@ Rotation A:
  - LITH F1 RELIC
 
 Rotation A:
-  1 SCINDO PRIME ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 FRAGOR PRIME ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 SCINDO PRIME ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 FRAGOR PRIME ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 ODONATA PRIME ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 ЧЕРТЁЖ: ПАРИС ПРАЙМ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 КЛЫКИ ПРАЙМ: КЛИНОК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ODONATA PRIME ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 ЧЕРТЁЖ: ПАРИС ПРАЙМ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 КЛЫКИ ПРАЙМ: КЛИНОК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinExterminateRewardsB]
  - MESO C1 RELIC
 
 Rotation A:
-  1 НОСИТЕЛЬ ПРАЙМ: МОЗГ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 ЧЕРТЁЖ: НОВА ПРАЙМ: НЕЙРООПТИКА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 20 Ducats
+  1 НОСИТЕЛЬ ПРАЙМ: МОЗГ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 ЧЕРТЁЖ: НОВА ПРАЙМ: НЕЙРООПТИКА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 20 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 СЦИНДО ПРАЙМ: РУКОЯТЬ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 ЧЕРТЁЖ: САРИНА ПРАЙМ: СИСТЕМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ЧЕРТЁЖ: ЭШ ПРАЙМ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 СЦИНДО ПРАЙМ: РУКОЯТЬ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 ЧЕРТЁЖ: САРИНА ПРАЙМ: СИСТЕМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ЧЕРТЁЖ: ЭШ ПРАЙМ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinExterminateRewardsC]
  - NEO N1 RELIC
 
 Rotation A:
-  1 NYX PRIME КАРКАС ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 SOMA PRIME ПРИЁМНИК, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 KAVASA PRIME KUBROW COLLAR ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 ХИКО ПРАЙМ СЮРИКЕНЫ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ВЕКТИС ПРАЙМ СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 NYX PRIME КАРКАС ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 SOMA PRIME ПРИЁМНИК, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 KAVASA PRIME KUBROW COLLAR ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 ХИКО ПРАЙМ СЮРИКЕНЫ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ВЕКТИС ПРАЙМ СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
@@ -197,35 +197,35 @@ Rotation A:
  - AXI K1 RELIC
 
 Rotation A:
-  1 KAVASA PRIME BUCKLE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 KAVASA PRIME BUCKLE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 ODONATA PRIME HARNESS ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ХИКО ПРАЙМ КИСЕТ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 AKSTILETTO PRIME ПРИЁМНИК, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 ЛЕКС ПРАЙМ: СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ODONATA PRIME HARNESS ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ХИКО ПРАЙМ КИСЕТ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 AKSTILETTO PRIME ПРИЁМНИК, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 ЛЕКС ПРАЙМ: СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinMobileDefenseRewardsA]
  - LITH A1 RELIC
 
 Rotation A:
-  1 SARYN PRIME НЕЙРООПТИКА ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 ВЕКТИС ПРАЙМ ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 БРЭЙТОН ПРАЙМ СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 AKSTILETTO PRIME ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 SARYN PRIME НЕЙРООПТИКА ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 ВЕКТИС ПРАЙМ ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 БРЭЙТОН ПРАЙМ СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 AKSTILETTO PRIME ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 ВАСТО ПРАЙМ: ПРИЁМНИК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ВАСТО ПРАЙМ: ПРИЁМНИК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinMobileDefenseRewardsB]
  - MESO V1 RELIC
 
 Rotation A:
-  1 БЁРСТОН ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 БРЭЙТОН ПРАЙМ ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
-  1 СПИРА ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 НОСИТЕЛЬ ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ВЕКТИС ПРАЙМ ПРИЁМНИК, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 БЁРСТОН ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 БРЭЙТОН ПРАЙМ ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats, Prime
+  1 СПИРА ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 НОСИТЕЛЬ ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ВЕКТИС ПРАЙМ ПРИЁМНИК, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, UNCOMMON, I:11%, E:13%, F:17%, R:20%
 
 
@@ -233,83 +233,83 @@ Rotation A:
  - NEO S3 RELIC
 
 Rotation A:
-  1 SOMA PRIME СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 SOMA PRIME СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 VASTO PRIME ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 СПИРА ПРАЙМ КЛИНОК, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 НОСИТЕЛЬ ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 БЁРСТОН ПРАЙМ ПРИЁМНИК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 VASTO PRIME ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 СПИРА ПРАЙМ КЛИНОК, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 НОСИТЕЛЬ ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 БЁРСТОН ПРАЙМ ПРИЁМНИК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinMobileDefenseRewardsD]
  - AXI N2 RELIC
 
 Rotation A:
-  1 НОСИТЕЛЬ ПРАЙМ ПАНЦИРЬ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ЛЕКС ПРАЙМ: ПРИЁМНИК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 НОСИТЕЛЬ ПРАЙМ ПАНЦИРЬ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ЛЕКС ПРАЙМ: ПРИЁМНИК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 НИКАНА ПРАЙМ HILT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 ЭШ ПРАЙМ НЕЙРООПТИКА ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 БРОНКО ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 НИКАНА ПРАЙМ HILT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 ЭШ ПРАЙМ НЕЙРООПТИКА ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 БРОНКО ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinSabotageRewardsA]
  - LITH F2 RELIC
 
 Rotation A:
-  1 ODONATA PRIME СИСТЕМА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ХИКО ПРАЙМ СЮРИКЕНЫ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ПАРИС ПРАЙМ ВЕРХНЕЕ ПЛЕЧО, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
-  1 БЁРСТОН ПРАЙМ СТВОЛ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 ВОБАН ПРАЙМ ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 50 Ducats
-  1 КЛЫКИ ПРАЙМ: РУКОЯТЬ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 15 Ducats
+  1 ODONATA PRIME СИСТЕМА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ХИКО ПРАЙМ СЮРИКЕНЫ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ПАРИС ПРАЙМ ВЕРХНЕЕ ПЛЕЧО, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats, Prime
+  1 БЁРСТОН ПРАЙМ СТВОЛ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 ВОБАН ПРАЙМ ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 50 Ducats, Prime
+  1 КЛЫКИ ПРАЙМ: РУКОЯТЬ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 15 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinSabotageRewardsB]
  - MESO N2 RELIC
 
 Rotation A:
-  1 ЭШ ПРАЙМ НЕЙРООПТИКА ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 ВОБАН ПРАЙМ НЕЙРООПТИКА ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 ХИКО ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 БРОНКО ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ЭШ ПРАЙМ НЕЙРООПТИКА ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 ВОБАН ПРАЙМ НЕЙРООПТИКА ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 ХИКО ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 БРОНКО ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 КЛЫКИ ПРАЙМ: РУКОЯТЬ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 КЛЫКИ ПРАЙМ: РУКОЯТЬ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinSabotageRewardsC]
  - NEO V1 RELIC
 
 Rotation A:
-  1 NYX PRIME ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 NYX PRIME ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 БРОНКО ПРАЙМ СТВОЛ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 ВОЛЬТ ПРАЙМ ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 ПАРНЫЕ КАМЫ ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 НОВА ПРАЙМ КАРКАС ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 БРОНКО ПРАЙМ СТВОЛ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 ВОЛЬТ ПРАЙМ ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 ПАРНЫЕ КАМЫ ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 НОВА ПРАЙМ КАРКАС ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinSabotageRewardsD]
  - AXI A1 RELIC
 
 Rotation A:
-  1 AKSTILETTO PRIME СТВОЛ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 TRINITY PRIME СИСТЕМА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 FRAGOR PRIME HEAD, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ПАРНЫЕ КАМЫ ПРАЙМ: РУКОЯТЬ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 БРЭЙТОН ПРАЙМ ПРИКЛАД, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 НИКАНА ПРАЙМ ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 AKSTILETTO PRIME СТВОЛ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 TRINITY PRIME СИСТЕМА ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 FRAGOR PRIME HEAD, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ПАРНЫЕ КАМЫ ПРАЙМ: РУКОЯТЬ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 БРЭЙТОН ПРАЙМ ПРИКЛАД, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 НИКАНА ПРАЙМ ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinSurvivalRewardsA]
  - LITH V1 RELIC
 
 Rotation A:
-  1 FRAGOR PRIME HANDLE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 ПАРИС ПРАЙМ ВЕРХНЕЕ ПЛЕЧО, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
-  1 ВОЛЬТ ПРАЙМ СИСТЕМА ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 ПАРИС ПРАЙМ НИЖНЕЕ ПЛЕЧО, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 БЁРСТОН ПРАЙМ ПРИКЛАД, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 FRAGOR PRIME HANDLE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 ПАРИС ПРАЙМ ВЕРХНЕЕ ПЛЕЧО, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats, Prime
+  1 ВОЛЬТ ПРАЙМ СИСТЕМА ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 ПАРИС ПРАЙМ НИЖНЕЕ ПЛЕЧО, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 БЁРСТОН ПРАЙМ ПРИКЛАД, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, UNCOMMON, I:11%, E:13%, F:17%, R:20%
 
 
@@ -317,33 +317,33 @@ Rotation A:
  - MESO V2 RELIC
 
 Rotation A:
-  1 ВАСТО ПРАЙМ: ПРИЁМНИК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ЧЕРТЁЖ: ПАРИС ПРАЙМ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ЭШ ПРАЙМ КАРКАС ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 НИКАНА ПРАЙМ КЛИНОК, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 ВАСТО ПРАЙМ: ПРИЁМНИК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ЧЕРТЁЖ: ПАРИС ПРАЙМ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ЭШ ПРАЙМ КАРКАС ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 НИКАНА ПРАЙМ КЛИНОК, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 ВОЛЬТ ПРАЙМ КАРКАС ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 15 Ducats
+  1 ВОЛЬТ ПРАЙМ КАРКАС ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 15 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinSurvivalRewardsC]
  - NEO N2 RELIC
 
 Rotation A:
-  1 ЧЕРТЁЖ: ЛЕКС ПРАЙМ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ВОБАН ПРАЙМ СИСТЕМА ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
-  1 ЧЕРТЁЖ: КЛЫКИ ПРАЙМ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 ЧЕРТЁЖ: ЛЕКС ПРАЙМ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ВОБАН ПРАЙМ СИСТЕМА ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime
+  1 ЧЕРТЁЖ: КЛЫКИ ПРАЙМ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, UNCOMMON, I:11%, E:13%, F:17%, R:20%
-  1 VASTO PRIME СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 НОВА ПРАЙМ ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 VASTO PRIME СТВОЛ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 НОВА ПРАЙМ ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
 
 
 [VoidKeyMissionRewards/OrokinSurvivalRewardsD]
  - AXI N1 RELIC
 
 Rotation A:
-  1 AKSTILETTO PRIME LINK, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 БРЭЙТОН ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+  1 AKSTILETTO PRIME LINK, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 БРЭЙТОН ПРАЙМ ЧЕРТЁЖ, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats, Prime
   1 ЧЕРТЁЖ: ФОРМА, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
-  1 ODONATA PRIME WINGS ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
-  1 КЛЫКИ ПРАЙМ: КЛИНОК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
-  1 ЭШ ПРАЙМ СИСТЕМА ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 ODONATA PRIME WINGS ЧЕРТЁЖ, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats, Prime
+  1 КЛЫКИ ПРАЙМ: КЛИНОК, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats, Prime
+  1 ЭШ ПРАЙМ СИСТЕМА ЧЕРТЁЖ, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats, Prime

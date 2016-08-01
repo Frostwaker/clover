@@ -1,3 +1,1945 @@
+[ArchwingCacheCoordsReward]
+
+
+[ArchwingExterminateRewards]
+ - Mercury, Caduceus, MT_EXTERMINATION, FC_GRINEER
+ - Venus, Montes, MT_EXTERMINATION, FC_CORPUS
+ - Mars, Syrtis, MT_EXTERMINATION, FC_GRINEER
+
+
+[ArchwingMobileDRewards]
+ - Earth, Erpo, MT_MOBILE_DEFENSE, FC_GRINEER
+ - Neptune, Salacia, MT_MOBILE_DEFENSE, FC_CORPUS
+ - Europa, Gamygyn, MT_MOBILE_DEFENSE, FC_GRINEER
+
+
+[ArchwingPursuitRewards]
+ - Saturn, Pandora, MT_PURSUIT, FC_GRINEER
+
+Rotation A:
+  1 Tempered Blade, COMMON, 14.29%
+  1 Sudden Impact, COMMON, 14.29%
+  1 Poisonous Sting, COMMON, 14.29%
+  1 Glacial Edge, COMMON, 14.29%
+  1 Galvanized Blade, COMMON, 14.29%
+  10 Common Fusion Core, COMMON, 14.29%
+  1 Furor, COMMON, 14.29%
+
+Rotation B:
+  1 Extend, UNCOMMON, 3.76%
+  1 Superior Defenses, UNCOMMON, 3.76%
+  1 Cutting Edge, UNCOMMON, 3.76%
+  1 System Reroute, UNCOMMON, 3.76%
+  1 Efficient Transferral, UNCOMMON, 3.76%
+  1 Blazing Steel, UNCOMMON, 3.76%
+  3 Uncommon Fusion Core, COMMON, 77.44%
+
+Rotation C:
+  5 Rare Fusion Core, COMMON, 14.29%
+  1 MESO D1 RELIC, COMMON, 14.29%
+  1 MESO N1 RELIC, COMMON, 14.29%
+  1 MESO C1 RELIC, COMMON, 14.29%
+  1 MESO V2 RELIC, COMMON, 14.29%
+  1 MESO N2 RELIC, COMMON, 14.29%
+  1 MESO V1 RELIC, COMMON, 14.29%
+
+
+[ArchwingSabotageRewards]
+ - Jupiter, Galilea, MT_SABOTAGE, FC_CORPUS
+
+
+[BossMissionRewards/AtlasRewards]
+
+
+[BossMissionRewards/BerserkerRewards]
+ - Jupiter, Themisto, MT_ASSASSINATION, FC_CORPUS
+
+
+[BossMissionRewards/CowgirlRewards]
+
+
+[BossMissionRewards/EmberRewards]
+ - Saturn, Tethys, MT_ASSASSINATION, FC_GRINEER
+
+
+[BossMissionRewards/ExcaliburRewards]
+ - Pluto, Hades, MT_ASSASSINATION, FC_CORPUS
+
+
+[BossMissionRewards/FrostRewards]
+ - Mars, War, MT_ASSASSINATION, FC_GRINEER
+
+
+[BossMissionRewards/HydroidRewards]
+ - Earth, Oro, MT_ASSASSINATION, FC_GRINEER
+
+
+[BossMissionRewards/LokiRewards]
+ - Neptune, Psamathe, MT_ASSASSINATION, FC_CORPUS
+
+
+[BossMissionRewards/MagRewards]
+ - Phobos, Iliad, MT_ASSASSINATION, FC_CORPUS
+
+
+[BossMissionRewards/MiterGremlinsRewards]
+ - Ceres, Exta, MT_ASSASSINATION, FC_GRINEER
+
+
+[BossMissionRewards/NovaRewards]
+ - Europa, Naamah, MT_ASSASSINATION, FC_CORPUS
+
+
+[BossMissionRewards/NyxRewards]
+
+
+[BossMissionRewards/RhinoRewards]
+ - Venus, Fossa, MT_ASSASSINATION, FC_CORPUS
+
+
+[BossMissionRewards/SarynRewards]
+ - Sedna, Merrow, MT_ASSASSINATION, FC_GRINEER
+
+
+[BossMissionRewards/SeerPistolRewards]
+ - Mercury, Tolstoj, MT_ASSASSINATION, FC_GRINEER
+
+
+[BossMissionRewards/TrinityRewards]
+ - Ceres, Exta, MT_ASSASSINATION, FC_GRINEER
+
+
+[BossMissionRewards/YinYangRewards]
+ - Uranus, Titania, MT_ASSASSINATION, FC_GRINEER
+
+
+[CacheRewardsEasy]
+ - Mercury, M Prime, MT_SABOTAGE, FC_GRINEER
+ - Mercury, Neruda, MT_SABOTAGE, FC_GRINEER
+ - Venus, Ishtar, MT_SABOTAGE, FC_CORPUS
+ - Mars, Gradivus, MT_SABOTAGE, FC_CORPUS
+
+
+[CacheRewardsHard]
+ - Uranus, Portia, MT_SABOTAGE, FC_GRINEER
+ - Neptune, Thalassa, MT_SABOTAGE, FC_CORPUS
+ - Neptune, Halimede, MT_SABOTAGE, FC_CORPUS
+ - Pluto, Charon, MT_SABOTAGE, FC_CORPUS
+ - Pluto, Cypress, MT_SABOTAGE, FC_CORPUS
+ - Sedna, Kelpie, MT_SABOTAGE, FC_GRINEER
+ - Void, Marduk, MT_SABOTAGE, FC_GRINEER
+
+
+[CacheRewardsMedium]
+ - Saturn, Pallene, MT_SABOTAGE, FC_GRINEER
+ - Saturn, Calypso, MT_SABOTAGE, FC_GRINEER
+ - Ceres, Thon, MT_SABOTAGE, FC_GRINEER
+ - Void, Stribog, MT_SABOTAGE, FC_OROKIN
+
+
+[CaptureMissionRewardsA]
+ - Mercury, Terminus, MT_CAPTURE, FC_GRINEER
+ - Venus, Venera, MT_CAPTURE, FC_CORPUS
+ - Earth, Mantle, MT_CAPTURE, FC_GRINEER
+ - Mars, Quirinus, MT_CAPTURE, FC_CORPUS
+ - Jupiter, Ananke, MT_CAPTURE, FC_CORPUS
+ - Saturn, Phoebe, MT_CAPTURE, FC_GRINEER
+ - Saturn, Cassini, MT_CAPTURE, FC_GRINEER
+ - Uranus, Desdemona, MT_CAPTURE, FC_GRINEER
+ - Uranus, Trinculo, MT_CAPTURE, FC_GRINEER
+ - Neptune, Galatea, MT_CAPTURE, FC_CORPUS
+ - Pluto, Hydra, MT_CAPTURE, FC_CORPUS
+ - Pluto, Corb, MT_CAPTURE, FC_CORPUS
+ - Eris, Cosis, MT_CAPTURE, FC_INFESTATION
+ - Eris, Isos, MT_CAPTURE, FC_INFESTATION
+ - Europa, Abaddon, MT_CAPTURE, FC_CORPUS
+ - Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS
+ - Europa, Beleth, MT_CAPTURE, FC_CORPUS
+ - Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS
+ - Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS
+ - Void, Hepit, MT_CAPTURE, FC_OROKIN
+ - Void, Ukko, MT_CAPTURE, FC_OROKIN
+ - Phobos, Limtoc, MT_CAPTURE, FC_GRINEER
+ - Phobos, Todd, MT_CAPTURE, FC_GRINEER
+
+Rotation A:
+  1 Vitality, COMMON, 9.48%
+  1 Fast Deflection, COMMON, 9.48%
+  1 Fast Deflection, COMMON, 9.48%
+  1 Rush, UNCOMMON, 11.06%
+  1 Magazine Warp, COMMON, 9.48%
+  1 Trick Mag, COMMON, 9.48%
+  1 Pressure Point, RARE, 0.17%
+  1 Ammo Drum, UNCOMMON, 11.06%
+  1 Fast Hands, COMMON, 9.48%
+  1 Quickdraw, COMMON, 9.48%
+  1 HEALTH RESTORE, COMMON, 9.48%
+  1 OMNI AMMO BOX, RARE, 0.17%
+  1 North Wind, RARE, 0.17%
+  1 Shocking Touch, RARE, 0.17%
+  1 Molten Impact, RARE, 0.17%
+  1 Vitality, RARE, 0.17%
+  1 Stretch, RARE, 0.17%
+  1 LITH S1 RELIC, RARE, 0.17%
+  1 LITH V1 RELIC, RARE, 0.17%
+  1 MESO C1 RELIC, RARE, 0.17%
+  1 MESO V2 RELIC, RARE, 0.17%
+  1 NEO N1 RELIC, RARE, 0.17%
+
+
+[ClemCloneRewards]
+
+Rotation A:
+  1 CLEM CLONE BLUEPRINT, COMMON, 100%
+
+Rotation B:
+  1 CLEM CLONE BLUEPRINT, COMMON, 100%
+
+Rotation C:
+  1 CLEM CLONE BLUEPRINT, COMMON, 100%
+
+
+[CorpusInfestedSabotageRewards]
+ - Eris, Candiru, MT_HIVE, FC_INFESTATION
+ - Eris, Lepis, MT_HIVE, FC_INFESTATION
+ - Eris, Psoro, MT_HIVE, FC_INFESTATION
+ - Eris, Viver, MT_HIVE, FC_INFESTATION
+ - Eris, Naeglar, MT_HIVE, FC_INFESTATION
+
+
+[DefenseMissionRewards/ArchwingDefenceMissionRewardsEasy]
+ - Phobos, Kepler, MT_RACE, FC_CORPUS
+
+Rotation A:
+  1 Tempered Blade, COMMON, 14.29%
+  1 Sudden Impact, COMMON, 14.29%
+  1 Poisonous Sting, COMMON, 14.29%
+  1 Glacial Edge, COMMON, 14.29%
+  1 Galvanized Blade, COMMON, 14.29%
+  10 Common Fusion Core, COMMON, 14.29%
+  1 Furor, COMMON, 14.29%
+
+Rotation B:
+  1 Extend, UNCOMMON, 3.76%
+  1 Superior Defenses, UNCOMMON, 3.76%
+  1 Cutting Edge, UNCOMMON, 3.76%
+  1 System Reroute, UNCOMMON, 3.76%
+  1 Efficient Transferral, UNCOMMON, 3.76%
+  1 Blazing Steel, UNCOMMON, 3.76%
+  3 Uncommon Fusion Core, COMMON, 77.44%
+
+Rotation C:
+  1 Meteor Crash, UNCOMMON, 7.52%
+  1 Nebula Bore, UNCOMMON, 7.52%
+  1 Astral Slash, UNCOMMON, 7.52%
+  5 Rare Fusion Core, COMMON, 11.06%
+  1 LITH S1 RELIC, COMMON, 11.06%
+  1 LITH S2 RELIC, COMMON, 11.06%
+  1 LITH F1 RELIC, COMMON, 11.06%
+  1 LITH V1 RELIC, COMMON, 11.06%
+  1 LITH F2 RELIC, COMMON, 11.06%
+  1 LITH A1 RELIC, COMMON, 11.06%
+
+
+[DefenseMissionRewards/BadlandsDefenseMissionRewards]
+ - Venus, Romula, MT_DEFENSE, FC_INFESTATION
+ - Earth, Coba, MT_DEFENSE, FC_INFESTATION
+ - Mars, Kadesh, MT_DEFENSE, FC_INFESTATION
+ - Jupiter, Sinai, MT_DEFENSE, FC_INFESTATION
+ - Saturn, Caracol, MT_DEFENSE, FC_INFESTATION
+ - Uranus, Ur, MT_DEFENSE, FC_INFESTATION
+ - Neptune, Yursa, MT_DEFENSE, FC_INFESTATION
+ - Pluto, Sechura, MT_DEFENSE, FC_INFESTATION
+ - Ceres, Seimeni, MT_DEFENSE, FC_INFESTATION
+ - Eris, Akkad, MT_DEFENSE, FC_INFESTATION
+ - Sedna, Sangeru, MT_DEFENSE, FC_INFESTATION
+ - Europa, Larzac, MT_DEFENSE, FC_INFESTATION
+ - Phobos, Memphis, MT_DEFENSE, FC_INFESTATION
+
+Rotation A:
+  1 Vitality, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Rush, UNCOMMON, 2.76%
+  1 Magazine Warp, COMMON, 15.18%
+  1 Trick Mag, COMMON, 15.18%
+  1 Pressure Point, RARE, 1.01%
+  1 Ammo Drum, UNCOMMON, 2.76%
+  1 Fast Hands, UNCOMMON, 2.76%
+  1 LITH S1 RELIC, UNCOMMON, 2.76%
+  1 LITH V1 RELIC, UNCOMMON, 2.76%
+  1 LITH S2 RELIC, UNCOMMON, 2.76%
+  1 LITH F1 RELIC, UNCOMMON, 2.76%
+  1 LITH A1 RELIC, UNCOMMON, 2.76%
+  1 True Punishment, RARE, 1.01%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 8.43%
+  1 Fast Hands, UNCOMMON, 1.84%
+  1 Point Strike, COMMON, 8.43%
+  1 Vital Sense, COMMON, 8.43%
+  1 Piercing Hit, UNCOMMON, 1.84%
+  1 Metal Auger, UNCOMMON, 1.84%
+  1 Pistol Gambit, COMMON, 8.43%
+  1 Target Cracker, COMMON, 8.43%
+  1 No Return, COMMON, 8.43%
+  1 Ravage, COMMON, 8.43%
+  1 Blunderbuss, COMMON, 8.43%
+  1 Point Blank, UNCOMMON, 1.84%
+  1 Serration, UNCOMMON, 1.84%
+  1 Hornet Strike, UNCOMMON, 1.84%
+  1 Fury, RARE, 0.67%
+  1 Reflex Coil, UNCOMMON, 1.84%
+  1 Pressure Point, COMMON, 8.43%
+  1 MESO C1 RELIC, UNCOMMON, 1.84%
+  1 MESO V2 RELIC, UNCOMMON, 1.84%
+  1 MESO D1 RELIC, UNCOMMON, 1.84%
+  1 MESO N1 RELIC, UNCOMMON, 1.84%
+  1 MESO V1 RELIC, UNCOMMON, 1.84%
+  1 True Punishment, RARE, 0.67%
+  1 Quickening, RARE, 0.67%
+
+Rotation C:
+  1 Hellfire, COMMON, 15.18%
+  1 Heated Charge, COMMON, 15.18%
+  1 Molten Impact, UNCOMMON, 2.21%
+  1 Barrel Diffusion, UNCOMMON, 2.21%
+  1 Streamline, UNCOMMON, 2.21%
+  1 Intensify, UNCOMMON, 2.21%
+  1 NEO N1 RELIC, UNCOMMON, 2.21%
+  1 Thunderbolt, RARE, 0.4%
+  1 Uncommon Fusion Core, COMMON, 15.18%
+  1 Rare Fusion Core, UNCOMMON, 2.21%
+  1 MESO C1 RELIC, COMMON, 15.18%
+  1 MESO V2 RELIC, COMMON, 15.18%
+  1 NEO S1 RELIC, UNCOMMON, 2.21%
+  1 NEO S2 RELIC, UNCOMMON, 2.21%
+  1 NEO S3 RELIC, UNCOMMON, 2.21%
+  1 NEO N2 RELIC, UNCOMMON, 2.21%
+  1 True Punishment, RARE, 0.4%
+  1 Quickening, RARE, 0.4%
+  1 Enduring Strike, RARE, 0.4%
+  1 Life Strike, RARE, 0.4%
+
+
+[DefenseMissionRewards/DefenseMissionRewardsEasy]
+ - Mercury, Lares, MT_DEFENSE, FC_INFESTATION
+ - Venus, Tessera, MT_DEFENSE, FC_CORPUS
+ - Earth, Lith, MT_DEFENSE, FC_GRINEER
+ - Mars, Spear, MT_DEFENSE, FC_GRINEER
+ - Ceres, Varro, MT_DEFENSE, FC_GRINEER
+ - Ceres, Casta, MT_DEFENSE, FC_GRINEER
+ - Ceres, Egeria, MT_DEFENSE, FC_GRINEER
+ - Void, Taranis, MT_DEFENSE, FC_OROKIN
+ - Phobos, Drunlo, MT_DEFENSE, FC_GRINEER
+ - Phobos, Gulliver, MT_DEFENSE, FC_CORPUS
+
+Rotation A:
+  1 Vitality, COMMON, 9.09%
+  1 Magazine Warp, COMMON, 9.09%
+  1 Trick Mag, COMMON, 9.09%
+  1 Pressure Point, COMMON, 9.09%
+  1 Ammo Drum, COMMON, 9.09%
+  1 Fast Hands, COMMON, 9.09%
+  1 Point Strike, COMMON, 9.09%
+  1 Piercing Hit, COMMON, 9.09%
+  1 Pistol Gambit, COMMON, 9.09%
+  1 Blunderbuss, COMMON, 9.09%
+  1 Common Fusion Core, COMMON, 9.09%
+
+Rotation B:
+  1 MESO D1 RELIC, COMMON, 5.88%
+  1 MESO N1 RELIC, COMMON, 5.88%
+  1 MESO C1 RELIC, COMMON, 5.88%
+  1 MESO V2 RELIC, COMMON, 5.88%
+  1 No Return, COMMON, 5.88%
+  1 Serration, COMMON, 5.88%
+  1 Hornet Strike, COMMON, 5.88%
+  1 Reflex Coil, COMMON, 5.88%
+  1 Deep Freeze, COMMON, 5.88%
+  1 North Wind, COMMON, 5.88%
+  1 Cryo Rounds, COMMON, 5.88%
+  1 Hell's Chamber, COMMON, 5.88%
+  1 Streamline, COMMON, 5.88%
+  1 Shocking Touch, COMMON, 5.88%
+  1 LITH F2 RELIC, COMMON, 5.88%
+  1 LITH V1 RELIC, COMMON, 5.88%
+  1 Uncommon Fusion Core, COMMON, 5.88%
+
+Rotation C:
+  1 Vital Sense, UNCOMMON, 2.26%
+  1 Metal Auger, UNCOMMON, 2.26%
+  1 Ravage, UNCOMMON, 2.26%
+  1 LITH V1 RELIC, UNCOMMON, 2.26%
+  1 LITH F1 RELIC, UNCOMMON, 2.26%
+  1 MESO N1 RELIC, UNCOMMON, 2.26%
+  1 MESO D1 RELIC, UNCOMMON, 2.26%
+  1 Continuity, UNCOMMON, 2.26%
+  1 Master Thief, UNCOMMON, 2.26%
+  1 Rare Fusion Core, UNCOMMON, 2.26%
+  1 LITH S2 RELIC, COMMON, 15.49%
+  1 LITH F1 RELIC, COMMON, 15.49%
+  1 LITH A1 RELIC, COMMON, 15.49%
+  1 LITH S1 RELIC, COMMON, 15.49%
+  1 LITH V1 RELIC, COMMON, 15.49%
+
+
+[DefenseMissionRewards/DefenseMissionRewardsHard]
+ - Uranus, Miranda, MT_DEFENSE, FC_GRINEER
+ - Uranus, Bianca, MT_DEFENSE, FC_GRINEER
+ - Neptune, Proteus, MT_DEFENSE, FC_CORPUS
+ - Pluto, Outer Terminus, MT_DEFENSE, FC_CORPUS
+ - Eris, Kala-azar, MT_DEFENSE, FC_INFESTATION
+ - Eris, Ixodes, MT_DEFENSE, FC_INFESTATION
+ - Sedna, Hydron, MT_DEFENSE, FC_GRINEER
+ - Void, Belenus, MT_DEFENSE, FC_OROKIN
+ - LUA, Stöfler, MT_DEFENSE, FC_GRINEER
+
+Rotation A:
+  1 Vitality, COMMON, 9.09%
+  1 Magazine Warp, COMMON, 9.09%
+  1 Trick Mag, COMMON, 9.09%
+  1 Pressure Point, COMMON, 9.09%
+  1 Ammo Drum, COMMON, 9.09%
+  1 Fast Hands, COMMON, 9.09%
+  1 Point Strike, COMMON, 9.09%
+  1 Piercing Hit, COMMON, 9.09%
+  1 Pistol Gambit, COMMON, 9.09%
+  1 Blunderbuss, COMMON, 9.09%
+  1 Common Fusion Core, COMMON, 9.09%
+
+Rotation B:
+  1 AXI S1 RELIC, COMMON, 5.88%
+  1 AXI V1 RELIC, COMMON, 5.88%
+  1 AXI K1 RELIC, COMMON, 5.88%
+  1 AXI N1 RELIC, COMMON, 5.88%
+  1 AXI N2 RELIC, COMMON, 5.88%
+  1 AXI V3 RELIC, COMMON, 5.88%
+  1 Hornet Strike, COMMON, 5.88%
+  1 Reflex Coil, COMMON, 5.88%
+  1 Deep Freeze, COMMON, 5.88%
+  1 North Wind, COMMON, 5.88%
+  1 Cryo Rounds, COMMON, 5.88%
+  1 Hell's Chamber, COMMON, 5.88%
+  1 Streamline, COMMON, 5.88%
+  1 Shocking Touch, COMMON, 5.88%
+  1 NEO N2 RELIC, COMMON, 5.88%
+  1 NEO V1 RELIC, COMMON, 5.88%
+  1 Uncommon Fusion Core, COMMON, 5.88%
+
+Rotation C:
+  1 Vital Sense, UNCOMMON, 2.26%
+  1 Metal Auger, UNCOMMON, 2.26%
+  1 Ravage, UNCOMMON, 2.26%
+  1 Stretch, UNCOMMON, 2.26%
+  1 Handspring, UNCOMMON, 2.26%
+  1 Convulsion, UNCOMMON, 2.26%
+  1 Split Chamber, UNCOMMON, 2.26%
+  1 Continuity, UNCOMMON, 2.26%
+  1 Master Thief, UNCOMMON, 2.26%
+  1 Rare Fusion Core, UNCOMMON, 2.26%
+  1 NEO S1 RELIC, COMMON, 15.49%
+  1 NEO S2 RELIC, COMMON, 15.49%
+  1 NEO S3 RELIC, COMMON, 15.49%
+  1 NEO N1 RELIC, COMMON, 15.49%
+  1 NEO N2 RELIC, COMMON, 15.49%
+
+
+[DefenseMissionRewards/DefenseMissionRewardsMedium]
+ - Jupiter, Io, MT_DEFENSE, FC_CORPUS
+ - Saturn, Helene, MT_DEFENSE, FC_GRINEER
+ - Saturn, Birog, MT_DEFENSE, FC_GRINEER
+ - Sedna, Camenae, MT_DEFENSE, FC_GRINEER
+ - Europa, Paimon, MT_DEFENSE, FC_CORPUS
+
+Rotation A:
+  1 MESO N2 RELIC, COMMON, 10%
+  1 MESO V1 RELIC, COMMON, 10%
+  1 Pressure Point, COMMON, 10%
+  1 Ammo Drum, COMMON, 10%
+  1 Fast Hands, COMMON, 10%
+  1 Point Strike, COMMON, 10%
+  1 Piercing Hit, COMMON, 10%
+  1 Pistol Gambit, COMMON, 10%
+  1 Blunderbuss, COMMON, 10%
+  1 Common Fusion Core, COMMON, 10%
+
+Rotation B:
+  1 NEO S1 RELIC, COMMON, 5.56%
+  1 NEO S2 RELIC, COMMON, 5.56%
+  1 NEO N1 RELIC, COMMON, 5.56%
+  1 Target Cracker, COMMON, 5.56%
+  1 No Return, COMMON, 5.56%
+  1 Serration, COMMON, 5.56%
+  1 Hornet Strike, COMMON, 5.56%
+  1 Reflex Coil, COMMON, 5.56%
+  1 Deep Freeze, COMMON, 5.56%
+  1 North Wind, COMMON, 5.56%
+  1 Cryo Rounds, COMMON, 5.56%
+  1 Hell's Chamber, COMMON, 5.56%
+  1 Streamline, COMMON, 5.56%
+  1 Shocking Touch, COMMON, 5.56%
+  1 Stormbringer, COMMON, 5.56%
+  1 Point Blank, COMMON, 5.56%
+  1 Fury, COMMON, 5.56%
+  1 Uncommon Fusion Core, COMMON, 5.56%
+
+Rotation C:
+  1 Vital Sense, UNCOMMON, 2.26%
+  1 Metal Auger, UNCOMMON, 2.26%
+  1 Ravage, UNCOMMON, 2.26%
+  1 Stretch, UNCOMMON, 2.26%
+  1 Handspring, UNCOMMON, 2.26%
+  1 Convulsion, UNCOMMON, 2.26%
+  1 Split Chamber, UNCOMMON, 2.26%
+  1 Continuity, UNCOMMON, 2.26%
+  1 Master Thief, UNCOMMON, 2.26%
+  1 Rare Fusion Core, UNCOMMON, 2.26%
+  1 MESO D1 RELIC, COMMON, 15.49%
+  1 MESO N1 RELIC, COMMON, 15.49%
+  1 MESO V1 RELIC, COMMON, 15.49%
+  1 MESO C1 RELIC, COMMON, 15.49%
+  1 MESO V2 RELIC, COMMON, 15.49%
+
+
+[DerelictDefenseRewards]
+
+Rotation A:
+  3 Rare Fusion Core, COMMON, 12.5%
+  3 Uncommon Fusion Core, COMMON, 12.5%
+  1 LITH S2 RELIC, COMMON, 12.5%
+  1 LITH F1 RELIC, COMMON, 12.5%
+  1 LITH V1 RELIC, COMMON, 12.5%
+  1 LITH A1 RELIC, COMMON, 12.5%
+  1 LITH S1 RELIC, COMMON, 12.5%
+  1 LITH F2 RELIC, COMMON, 12.5%
+
+Rotation B:
+  3 Rare Fusion Core, COMMON, 38.72%
+  3 Uncommon Fusion Core, COMMON, 38.72%
+  1 MUTALIST ALAD V NAV COORDINATE, UNCOMMON, 22.56%
+
+Rotation C:
+  1 MESO V1 RELIC, COMMON, 12.91%
+  1 MESO D1 RELIC, COMMON, 12.91%
+  1 MESO C1 RELIC, COMMON, 12.91%
+  1 FORMA BLUEPRINT, UNCOMMON, 22.56%
+  1 MESO N1 RELIC, COMMON, 12.91%
+  1 MESO V2 RELIC, COMMON, 12.91%
+  1 MESO N2 RELIC, COMMON, 12.91%
+
+
+[DerelictSurvivalRewards]
+
+Rotation A:
+  3 Rare Fusion Core, COMMON, 25%
+  3 Uncommon Fusion Core, COMMON, 25%
+  1 LITH S1 RELIC, COMMON, 25%
+  1 LITH A1 RELIC, COMMON, 25%
+
+Rotation B:
+  1 NEO S2 RELIC, COMMON, 14.29%
+  1 NEO N1 RELIC, COMMON, 14.29%
+  1 NEO S1 RELIC, COMMON, 14.29%
+  1 NEO S3 RELIC, COMMON, 14.29%
+  1 MUTALIST ALAD V NAV COORDINATE, COMMON, 14.29%
+  1 NEO N2 RELIC, COMMON, 14.29%
+  1 NEO V1 RELIC, COMMON, 14.29%
+
+Rotation C:
+  1 AXI S1 RELIC, COMMON, 11.06%
+  1 AXI N2 RELIC, COMMON, 11.06%
+  1 AXI V3 RELIC, COMMON, 11.06%
+  1 AXI K1 RELIC, COMMON, 11.06%
+  1 FORMA BLUEPRINT, UNCOMMON, 22.56%
+  1 AXI V1 RELIC, COMMON, 11.06%
+  1 AXI N1 RELIC, COMMON, 11.06%
+  1 AXI A1 RELIC, COMMON, 11.06%
+
+
+[ExtractionMissionRewards/ExtractionLowLevelRewards]
+
+Rotation A:
+  1 1000 CREDITS, COMMON, 14.29%
+  1 1500 CREDITS, COMMON, 14.29%
+  1 Uncommon Fusion Core, COMMON, 14.29%
+  1 Rare Fusion Core, COMMON, 14.29%
+  1 Reflection, COMMON, 14.29%
+  1 Reflex Guard, COMMON, 14.29%
+  1 Parry, COMMON, 14.29%
+
+Rotation B:
+  1 LITH S2 RELIC, COMMON, 16.67%
+  1 LITH A1 RELIC, COMMON, 16.67%
+  1 LITH S1 RELIC, COMMON, 16.67%
+  1 LITH V1 RELIC, COMMON, 16.67%
+  1 LITH F1 RELIC, COMMON, 16.67%
+  1 LITH F2 RELIC, COMMON, 16.67%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 7.69%
+  1 3000 CREDITS, COMMON, 7.69%
+  1 Reflection, COMMON, 7.69%
+  1 Reflex Guard, COMMON, 7.69%
+  1 Parry, COMMON, 7.69%
+  1 Steel Fiber, COMMON, 7.69%
+  1 Heavy Impact, COMMON, 7.69%
+  1 Incendiary Coat, COMMON, 7.69%
+  1 Cleanse Grineer, COMMON, 7.69%
+  1 Hornet Strike, COMMON, 7.69%
+  1 Intensify, COMMON, 7.69%
+  1 Reflex Coil, COMMON, 7.69%
+  1 Gemini Cross, COMMON, 7.69%
+
+
+[ExtractionMissionRewards/LimboChassisQuestExcavationRewards]
+
+Rotation A:
+  1 1000 CREDITS, COMMON, 48.71%
+  1 1500 CREDITS, COMMON, 48.71%
+  1 LIMBO CHASSIS BLUEPRINT, RARE, 2.58%
+
+Rotation B:
+  1 1500 CREDITS, COMMON, 38.72%
+  1 2000 CREDITS, COMMON, 38.72%
+  1 LIMBO CHASSIS BLUEPRINT, UNCOMMON, 22.56%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 33.33%
+  1 3000 CREDITS, COMMON, 33.33%
+  1 LIMBO CHASSIS BLUEPRINT, COMMON, 33.33%
+
+
+[ExtractionMissionRewards/LimboHelmetQuestExcavationRewards]
+
+Rotation A:
+  1 1000 CREDITS, COMMON, 48.71%
+  1 1500 CREDITS, COMMON, 48.71%
+  1 LIMBO NEUROPTICS BLUEPRINT, RARE, 2.58%
+
+Rotation B:
+  1 1500 CREDITS, COMMON, 38.72%
+  1 2000 CREDITS, COMMON, 38.72%
+  1 LIMBO NEUROPTICS BLUEPRINT, UNCOMMON, 22.56%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 33.33%
+  1 3000 CREDITS, COMMON, 33.33%
+  1 LIMBO NEUROPTICS BLUEPRINT, COMMON, 33.33%
+
+
+[ExtractionMissionRewards/LimboSystemsQuestExcavationRewards]
+
+Rotation A:
+  1 1000 CREDITS, COMMON, 48.71%
+  1 1500 CREDITS, COMMON, 48.71%
+  1 LIMBO SYSTEMS BLUEPRINT, RARE, 2.58%
+
+Rotation B:
+  1 1500 CREDITS, COMMON, 38.72%
+  1 2000 CREDITS, COMMON, 38.72%
+  1 LIMBO SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 33.33%
+  1 3000 CREDITS, COMMON, 33.33%
+  1 LIMBO SYSTEMS BLUEPRINT, COMMON, 33.33%
+
+
+[ForestSabotageRewards]
+ - Earth, E Prime, MT_SABOTAGE, FC_GRINEER
+
+
+[FusionCoreRewards]
+
+
+[GolemMissionRewards]
+
+
+[HalloweenExtermEventRewards]
+
+
+[InfestedIncursionsSurvivalRewards]
+
+
+[InterceptionMissionRewards/ArchwingInterceptionMissionRewardsHard]
+ - Uranus, Caelus, MT_TERRITORY, FC_GRINEER
+
+Rotation A:
+  1 Automatic Trigger, UNCOMMON, 2.51%
+  1 Combustion Rounds, UNCOMMON, 2.51%
+  1 Dual Rounds, UNCOMMON, 2.51%
+  1 Hollowed Bullets, UNCOMMON, 2.51%
+  1 Magazine Extension, UNCOMMON, 2.51%
+  1 Modified Munitions, UNCOMMON, 2.51%
+  1 Parallax Scope, UNCOMMON, 2.51%
+  1 Rubedo-Lined Barrel, UNCOMMON, 2.51%
+  1 Venomous Clip, UNCOMMON, 2.51%
+  3 Uncommon Fusion Core, COMMON, 38.72%
+  5 Uncommon Fusion Core, COMMON, 38.72%
+
+Rotation B:
+  1 Superior Defenses, COMMON, 10%
+  1 Bleeding Edge, COMMON, 10%
+  1 Superior Defenses, COMMON, 10%
+  1 Argon Plating, COMMON, 10%
+  1 Furor, COMMON, 10%
+  5 Uncommon Fusion Core, COMMON, 10%
+  1 Glacial Edge, COMMON, 10%
+  1 Electrified Barrel, COMMON, 10%
+  1 Energy Inversion, COMMON, 10%
+  1 Uncommon Fusion Core, COMMON, 10%
+
+Rotation C:
+  5 Rare Fusion Core, UNCOMMON, 22.56%
+  5 Uncommon Fusion Core, COMMON, 9.68%
+  1 AXI S1 RELIC, COMMON, 9.68%
+  1 AXI V1 RELIC, COMMON, 9.68%
+  1 AXI K1 RELIC, COMMON, 9.68%
+  1 AXI N1 RELIC, COMMON, 9.68%
+  1 AXI A1 RELIC, COMMON, 9.68%
+  1 AXI V3 RELIC, COMMON, 9.68%
+  1 AXI N2 RELIC, COMMON, 9.68%
+
+
+[InterceptionMissionRewards/InterceptionMissionRewardsEasy]
+ - Mercury, Odin, MT_TERRITORY, FC_GRINEER
+ - Venus, Cytherean, MT_TERRITORY, FC_CORPUS
+ - Earth, Gaia, MT_TERRITORY, FC_GRINEER
+ - Ceres, Cinxia, MT_TERRITORY, FC_GRINEER
+
+Rotation A:
+  1 Vitality, COMMON, 9.09%
+  1 Magazine Warp, COMMON, 9.09%
+  1 Trick Mag, COMMON, 9.09%
+  1 Pressure Point, COMMON, 9.09%
+  1 Ammo Drum, COMMON, 9.09%
+  1 Fast Hands, COMMON, 9.09%
+  1 Point Strike, COMMON, 9.09%
+  1 Piercing Hit, COMMON, 9.09%
+  1 Pistol Gambit, COMMON, 9.09%
+  1 Blunderbuss, COMMON, 9.09%
+  1 Common Fusion Core, COMMON, 9.09%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 5.56%
+  1 Fast Deflection, COMMON, 5.56%
+  1 Rush, COMMON, 5.56%
+  1 Target Cracker, COMMON, 5.56%
+  1 No Return, COMMON, 5.56%
+  1 Serration, COMMON, 5.56%
+  1 Hornet Strike, COMMON, 5.56%
+  1 Reflex Coil, COMMON, 5.56%
+  1 Deep Freeze, COMMON, 5.56%
+  1 North Wind, COMMON, 5.56%
+  1 Cryo Rounds, COMMON, 5.56%
+  1 Hell's Chamber, COMMON, 5.56%
+  1 Streamline, COMMON, 5.56%
+  1 Shocking Touch, COMMON, 5.56%
+  1 MESO C1 RELIC, COMMON, 5.56%
+  1 MESO D1 RELIC, COMMON, 5.56%
+  1 MESO N1 RELIC, COMMON, 5.56%
+  1 Uncommon Fusion Core, COMMON, 5.56%
+
+Rotation C:
+  1 LITH S2 RELIC, COMMON, 16.24%
+  1 LITH F1 RELIC, COMMON, 16.24%
+  1 Natural Talent, RARE, 2.58%
+  1 LITH A1 RELIC, COMMON, 16.24%
+  1 LITH V1 RELIC, COMMON, 16.24%
+  1 LITH S1 RELIC, COMMON, 16.24%
+  1 LITH F2 RELIC, COMMON, 16.24%
+
+
+[InterceptionMissionRewards/InterceptionMissionRewardsHard]
+ - Uranus, Stephano, MT_TERRITORY, FC_GRINEER
+ - Pluto, Cerberus, MT_TERRITORY, FC_CORPUS
+ - Eris, Sporid, MT_TERRITORY, FC_INFESTATION
+ - Eris, Phalan, MT_TERRITORY, FC_INFESTATION
+ - Eris, Xini, MT_TERRITORY, FC_INFESTATION
+ - Sedna, Berehynia, MT_TERRITORY, FC_GRINEER
+ - Void, Mithra, MT_TERRITORY, FC_GRINEER
+
+Rotation A:
+  1 Vitality, COMMON, 9.09%
+  1 Magazine Warp, COMMON, 9.09%
+  1 Trick Mag, COMMON, 9.09%
+  1 Pressure Point, COMMON, 9.09%
+  1 Ammo Drum, COMMON, 9.09%
+  1 Fast Hands, COMMON, 9.09%
+  1 Point Strike, COMMON, 9.09%
+  1 Piercing Hit, COMMON, 9.09%
+  1 Pistol Gambit, COMMON, 9.09%
+  1 Blunderbuss, COMMON, 9.09%
+  1 Common Fusion Core, COMMON, 9.09%
+
+Rotation B:
+  1 NEO S2 RELIC, COMMON, 20%
+  1 NEO S1 RELIC, COMMON, 20%
+  1 NEO N1 RELIC, COMMON, 20%
+  1 MESO D1 RELIC, COMMON, 20%
+  1 MESO N1 RELIC, COMMON, 20%
+
+Rotation C:
+  1 AXI N2 RELIC, RARE, 2.58%
+  1 AXI N1 RELIC, COMMON, 16.24%
+  1 AXI V3 RELIC, COMMON, 16.24%
+  1 AXI V1 RELIC, COMMON, 16.24%
+  1 AXI S1 RELIC, COMMON, 16.24%
+  1 AXI K1 RELIC, COMMON, 16.24%
+  1 AXI A1 RELIC, COMMON, 16.24%
+
+
+[InterceptionMissionRewards/InterceptionMissionRewardsMedium]
+ - Jupiter, Callisto, MT_TERRITORY, FC_CORPUS
+ - Saturn, Iapetus, MT_TERRITORY, FC_GRINEER
+ - Saturn, Rhea, MT_TERRITORY, FC_GRINEER
+ - Uranus, Umbriel, MT_TERRITORY, FC_GRINEER
+ - Europa, Ose, MT_TERRITORY, FC_CORPUS
+
+Rotation A:
+  1 Vitality, COMMON, 9.09%
+  1 Magazine Warp, COMMON, 9.09%
+  1 Trick Mag, COMMON, 9.09%
+  1 Pressure Point, COMMON, 9.09%
+  1 Ammo Drum, COMMON, 9.09%
+  1 Fast Hands, COMMON, 9.09%
+  1 Point Strike, COMMON, 9.09%
+  1 Piercing Hit, COMMON, 9.09%
+  1 Pistol Gambit, COMMON, 9.09%
+  1 Blunderbuss, COMMON, 9.09%
+  1 Common Fusion Core, COMMON, 9.09%
+
+Rotation B:
+  1 Target Cracker, COMMON, 7.69%
+  1 No Return, COMMON, 7.69%
+  1 Serration, COMMON, 7.69%
+  1 Hornet Strike, COMMON, 7.69%
+  1 Reflex Coil, COMMON, 7.69%
+  1 North Wind, COMMON, 7.69%
+  1 Hell's Chamber, COMMON, 7.69%
+  1 Streamline, COMMON, 7.69%
+  1 Shocking Touch, COMMON, 7.69%
+  1 Stormbringer, COMMON, 7.69%
+  1 NEO N2 RELIC, COMMON, 7.69%
+  1 NEO V1 RELIC, COMMON, 7.69%
+  1 Uncommon Fusion Core, COMMON, 7.69%
+
+Rotation C:
+  1 NEO S3 RELIC, RARE, 2.58%
+  1 MESO V1 RELIC, COMMON, 32.47%
+  1 MESO V2 RELIC, COMMON, 32.47%
+  1 MESO N2 RELIC, COMMON, 32.47%
+
+
+[InterceptRewardsGrineer]
+
+Rotation A:
+  1 Vitality, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Rush, UNCOMMON, 2.76%
+  1 Magazine Warp, COMMON, 15.18%
+  1 Trick Mag, COMMON, 15.18%
+  1 Pressure Point, RARE, 2.01%
+  1 Ammo Drum, UNCOMMON, 2.76%
+  1 Fast Hands, UNCOMMON, 2.76%
+  1 LITH S1 RELIC, UNCOMMON, 2.76%
+  1 LITH V1 RELIC, UNCOMMON, 2.76%
+  1 LITH S2 RELIC, UNCOMMON, 2.76%
+  1 LITH F1 RELIC, UNCOMMON, 2.76%
+  1 LITH A1 RELIC, UNCOMMON, 2.76%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 8.43%
+  1 Fast Hands, UNCOMMON, 1.84%
+  1 Point Strike, COMMON, 8.43%
+  1 Vital Sense, COMMON, 8.43%
+  1 Piercing Hit, UNCOMMON, 1.84%
+  1 Metal Auger, UNCOMMON, 1.84%
+  1 Pistol Gambit, COMMON, 8.43%
+  1 Target Cracker, COMMON, 8.43%
+  1 No Return, COMMON, 8.43%
+  1 Ravage, COMMON, 8.43%
+  1 Blunderbuss, COMMON, 8.43%
+  1 Point Blank, UNCOMMON, 1.84%
+  1 Serration, UNCOMMON, 1.84%
+  1 Hornet Strike, UNCOMMON, 1.84%
+  1 Fury, RARE, 2.01%
+  1 Reflex Coil, UNCOMMON, 1.84%
+  1 Pressure Point, COMMON, 8.43%
+  1 MESO C1 RELIC, UNCOMMON, 1.84%
+  1 MESO V2 RELIC, UNCOMMON, 1.84%
+  1 MESO D1 RELIC, UNCOMMON, 1.84%
+  1 MESO N1 RELIC, UNCOMMON, 1.84%
+  1 MESO V1 RELIC, UNCOMMON, 1.84%
+
+Rotation C:
+  1 Natural Talent, RARE, 1.01%
+  1 North Wind, COMMON, 18.97%
+  1 Cryo Rounds, UNCOMMON, 2.21%
+  1 Hell's Chamber, UNCOMMON, 2.21%
+  1 Stretch, UNCOMMON, 2.21%
+  1 Streamline, UNCOMMON, 2.21%
+  1 NEO N1 RELIC, UNCOMMON, 2.21%
+  1 Handspring, RARE, 1.01%
+  1 MESO C1 RELIC, COMMON, 18.97%
+  1 MESO V2 RELIC, COMMON, 18.97%
+  1 Uncommon Fusion Core, COMMON, 18.97%
+  1 Rare Fusion Core, UNCOMMON, 2.21%
+  1 NEO S1 RELIC, UNCOMMON, 2.21%
+  1 NEO S2 RELIC, UNCOMMON, 2.21%
+  1 NEO S3 RELIC, UNCOMMON, 2.21%
+  1 NEO N2 RELIC, UNCOMMON, 2.21%
+
+
+[KelaEventRewardsEasy]
+ - Sedna, Undine, MT_ARENA, FC_GRINEER
+
+
+[KelaEventRewardsHard]
+ - Sedna, Vodyanoi, MT_ARENA, FC_GRINEER
+ - Sedna, Yam, MT_ARENA, FC_GRINEER
+
+
+[KelaEventRewardsMedium]
+ - Sedna, Nakki, MT_ARENA, FC_GRINEER
+
+
+[KelaEventRewardsNightmare]
+
+
+[MacheteMayhemBonusRewards]
+
+Rotation A:
+  5 Rare Fusion Core, COMMON, 75.88%
+  1 MADURAI LENS, RARE, 0.29%
+  1 VAZARIN LENS, RARE, 0.29%
+  1 ZENURIK LENS, RARE, 0.29%
+  1 NARAMON LENS, RARE, 0.29%
+  1 UNAIRU LENS, RARE, 0.29%
+  1 FORMA, RARE, 0.29%
+  1 EXILUS ADAPTER, RARE, 0.29%
+  1 Voltaic Strike, UNCOMMON, 5.53%
+  1 Jolt, UNCOMMON, 5.53%
+  1 High Voltage, UNCOMMON, 5.53%
+  1 Shell Shock, UNCOMMON, 5.53%
+
+
+[MirageRewards]
+
+
+[MissionRewardsCorpus]
+
+Rotation A:
+  1 Vitality, COMMON, 10.84%
+  1 Fast Deflection, COMMON, 10.84%
+  1 Fast Deflection, COMMON, 10.84%
+  1 Rush, UNCOMMON, 3.69%
+  1 Magazine Warp, COMMON, 10.84%
+  1 Trick Mag, COMMON, 10.84%
+  1 Pressure Point, RARE, 2.01%
+  1 Ammo Drum, UNCOMMON, 3.69%
+  1 Fast Hands, UNCOMMON, 3.69%
+  1 LITH S1 RELIC, COMMON, 10.84%
+  1 LITH V1 RELIC, COMMON, 10.84%
+  1 LITH S2 RELIC, UNCOMMON, 3.69%
+  1 LITH F1 RELIC, UNCOMMON, 3.69%
+  1 LITH A1 RELIC, UNCOMMON, 3.69%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 8.43%
+  1 Fast Hands, UNCOMMON, 1.84%
+  1 Point Strike, COMMON, 8.43%
+  1 Vital Sense, COMMON, 8.43%
+  1 Piercing Hit, UNCOMMON, 1.84%
+  1 Metal Auger, UNCOMMON, 1.84%
+  1 Pistol Gambit, COMMON, 8.43%
+  1 Target Cracker, COMMON, 8.43%
+  1 No Return, COMMON, 8.43%
+  1 Ravage, COMMON, 8.43%
+  1 Blunderbuss, COMMON, 8.43%
+  1 Point Blank, UNCOMMON, 1.84%
+  1 Serration, UNCOMMON, 1.84%
+  1 Hornet Strike, UNCOMMON, 1.84%
+  1 Fury, RARE, 2.01%
+  1 Reflex Coil, UNCOMMON, 1.84%
+  1 Pressure Point, COMMON, 8.43%
+  1 MESO C1 RELIC, UNCOMMON, 1.84%
+  1 MESO V2 RELIC, UNCOMMON, 1.84%
+  1 MESO D1 RELIC, UNCOMMON, 1.84%
+  1 MESO N1 RELIC, UNCOMMON, 1.84%
+  1 MESO V1 RELIC, UNCOMMON, 1.84%
+
+Rotation C:
+  1 Convulsion, COMMON, 15.18%
+  1 Shocking Touch, COMMON, 15.18%
+  1 Stormbringer, UNCOMMON, 2.21%
+  1 Split Chamber, UNCOMMON, 2.21%
+  1 Stretch, UNCOMMON, 2.21%
+  1 Continuity, UNCOMMON, 2.21%
+  1 NEO N1 RELIC, UNCOMMON, 2.21%
+  1 Master Thief, RARE, 2.01%
+  1 MESO C1 RELIC, COMMON, 15.18%
+  1 MESO V2 RELIC, COMMON, 15.18%
+  1 Uncommon Fusion Core, COMMON, 15.18%
+  1 Rare Fusion Core, UNCOMMON, 2.21%
+  1 NEO S1 RELIC, UNCOMMON, 2.21%
+  1 NEO S2 RELIC, UNCOMMON, 2.21%
+  1 NEO S3 RELIC, UNCOMMON, 2.21%
+  1 NEO N2 RELIC, UNCOMMON, 2.21%
+
+
+[MissionRewardsGrineer]
+
+Rotation A:
+  1 Vitality, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Rush, UNCOMMON, 2.76%
+  1 Magazine Warp, COMMON, 15.18%
+  1 Trick Mag, COMMON, 15.18%
+  1 Pressure Point, RARE, 2.01%
+  1 Ammo Drum, UNCOMMON, 2.76%
+  1 Fast Hands, UNCOMMON, 2.76%
+  1 LITH S1 RELIC, UNCOMMON, 2.76%
+  1 LITH V1 RELIC, UNCOMMON, 2.76%
+  1 LITH S2 RELIC, UNCOMMON, 2.76%
+  1 LITH F1 RELIC, UNCOMMON, 2.76%
+  1 LITH A1 RELIC, UNCOMMON, 2.76%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 8.43%
+  1 Fast Hands, UNCOMMON, 1.84%
+  1 Point Strike, COMMON, 8.43%
+  1 Vital Sense, COMMON, 8.43%
+  1 Piercing Hit, UNCOMMON, 1.84%
+  1 Metal Auger, UNCOMMON, 1.84%
+  1 Pistol Gambit, COMMON, 8.43%
+  1 Target Cracker, COMMON, 8.43%
+  1 No Return, COMMON, 8.43%
+  1 Ravage, COMMON, 8.43%
+  1 Blunderbuss, COMMON, 8.43%
+  1 Point Blank, UNCOMMON, 1.84%
+  1 Serration, UNCOMMON, 1.84%
+  1 Hornet Strike, UNCOMMON, 1.84%
+  1 Fury, RARE, 2.01%
+  1 Reflex Coil, UNCOMMON, 1.84%
+  1 Pressure Point, COMMON, 8.43%
+  1 MESO C1 RELIC, UNCOMMON, 1.84%
+  1 MESO V2 RELIC, UNCOMMON, 1.84%
+  1 MESO D1 RELIC, UNCOMMON, 1.84%
+  1 MESO N1 RELIC, UNCOMMON, 1.84%
+  1 MESO V1 RELIC, UNCOMMON, 1.84%
+
+Rotation C:
+  1 Deep Freeze, COMMON, 15.18%
+  1 North Wind, COMMON, 15.18%
+  1 Cryo Rounds, UNCOMMON, 2.21%
+  1 Hell's Chamber, UNCOMMON, 2.21%
+  1 Stretch, UNCOMMON, 2.21%
+  1 Streamline, UNCOMMON, 2.21%
+  1 NEO N1 RELIC, UNCOMMON, 2.21%
+  1 Handspring, RARE, 2.01%
+  1 MESO C1 RELIC, COMMON, 15.18%
+  1 MESO V2 RELIC, COMMON, 15.18%
+  1 Uncommon Fusion Core, COMMON, 15.18%
+  1 Rare Fusion Core, UNCOMMON, 2.21%
+  1 NEO S1 RELIC, UNCOMMON, 2.21%
+  1 NEO S2 RELIC, UNCOMMON, 2.21%
+  1 NEO S3 RELIC, UNCOMMON, 2.21%
+  1 NEO N2 RELIC, UNCOMMON, 2.21%
+
+
+[MissionRewardsInfested]
+ - Phobos, Opik, MT_RACE, FC_CORPUS
+
+Rotation A:
+  1 Vitality, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Fast Deflection, COMMON, 15.18%
+  1 Rush, UNCOMMON, 2.76%
+  1 Magazine Warp, COMMON, 15.18%
+  1 Trick Mag, COMMON, 15.18%
+  1 Pressure Point, RARE, 2.01%
+  1 Ammo Drum, UNCOMMON, 2.76%
+  1 Fast Hands, UNCOMMON, 2.76%
+  1 LITH S1 RELIC, UNCOMMON, 2.76%
+  1 LITH V1 RELIC, UNCOMMON, 2.76%
+  1 LITH S2 RELIC, UNCOMMON, 2.76%
+  1 LITH F1 RELIC, UNCOMMON, 2.76%
+  1 LITH A1 RELIC, UNCOMMON, 2.76%
+
+Rotation B:
+  1 Speed Trigger, COMMON, 8.43%
+  1 Fast Hands, UNCOMMON, 1.84%
+  1 Point Strike, COMMON, 8.43%
+  1 Vital Sense, COMMON, 8.43%
+  1 Piercing Hit, UNCOMMON, 1.84%
+  1 Metal Auger, UNCOMMON, 1.84%
+  1 Pistol Gambit, COMMON, 8.43%
+  1 Target Cracker, COMMON, 8.43%
+  1 No Return, COMMON, 8.43%
+  1 Ravage, COMMON, 8.43%
+  1 Blunderbuss, COMMON, 8.43%
+  1 Point Blank, UNCOMMON, 1.84%
+  1 Serration, UNCOMMON, 1.84%
+  1 Hornet Strike, UNCOMMON, 1.84%
+  1 Fury, RARE, 2.01%
+  1 Reflex Coil, UNCOMMON, 1.84%
+  1 Pressure Point, COMMON, 8.43%
+  1 MESO C1 RELIC, UNCOMMON, 1.84%
+  1 MESO V2 RELIC, UNCOMMON, 1.84%
+  1 MESO D1 RELIC, UNCOMMON, 1.84%
+  1 MESO N1 RELIC, UNCOMMON, 1.84%
+  1 MESO V1 RELIC, UNCOMMON, 1.84%
+
+Rotation C:
+  1 Hellfire, COMMON, 15.18%
+  1 Heated Charge, COMMON, 15.18%
+  1 Molten Impact, UNCOMMON, 2.21%
+  1 Barrel Diffusion, UNCOMMON, 2.21%
+  1 Streamline, UNCOMMON, 2.21%
+  1 Intensify, UNCOMMON, 2.21%
+  1 NEO N1 RELIC, UNCOMMON, 2.21%
+  1 Thunderbolt, RARE, 2.01%
+  1 Uncommon Fusion Core, COMMON, 15.18%
+  1 Rare Fusion Core, UNCOMMON, 2.21%
+  1 MESO C1 RELIC, COMMON, 15.18%
+  1 MESO V2 RELIC, COMMON, 15.18%
+  1 NEO S1 RELIC, UNCOMMON, 2.21%
+  1 NEO S2 RELIC, UNCOMMON, 2.21%
+  1 NEO S3 RELIC, UNCOMMON, 2.21%
+  1 NEO N2 RELIC, UNCOMMON, 2.21%
+
+
+[NightmareModeRewards]
+
+
+[OceanSabotageRewards]
+ - Uranus, Ariel, MT_SABOTAGE, FC_GRINEER
+ - Uranus, Prospero, MT_SABOTAGE, FC_GRINEER
+ - Uranus, Setebos, MT_SABOTAGE, FC_GRINEER
+
+
+[OrokinDerelictSabotageRewards]
+
+
+[OrokinSabotageEventRewards]
+ - Ceres, Gate Crash, MT_SABOTAGE, FC_GRINEER
+ - Phobos, Shifting Sands, MT_SABOTAGE, FC_GRINEER
+ - Phobos, Gate Crash, MT_SABOTAGE, FC_GRINEER
+
+
+[ProjectFriendlyFireRewardsBasic]
+
+
+[ProjectFriendlyFireRewardsBonus]
+
+
+[ProjectPanaceaBonusRewards]
+
+Rotation A:
+  1 RIFT SIGIL, RARE, 0.25%
+  1 Stunning Speed, RARE, 0.25%
+  1 Hammer Shot, RARE, 0.25%
+  1 Blaze, RARE, 0.25%
+  1 Buzz Kill, RARE, 0.25%
+  1 Maim, RARE, 0.25%
+  1 Fanged Fusillade, RARE, 0.25%
+  1 Sweeping Serration, RARE, 0.25%
+  10 Rare Fusion Core, UNCOMMON, 3.16%
+  5 Rare Fusion Core, COMMON, 18.97%
+  1 3000 CREDITS, COMMON, 18.97%
+  1 4000 CREDITS, UNCOMMON, 3.16%
+  1 4000 CREDITS, UNCOMMON, 3.16%
+  1 DETONITE AMPULE, UNCOMMON, 3.16%
+  1 FIELDRON SAMPLE, COMMON, 18.97%
+  1 MUTAGEN SAMPLE, COMMON, 18.97%
+  2 Madurai Transmute Core, UNCOMMON, 3.16%
+  2 Vazarin Transmute Core, UNCOMMON, 3.16%
+  1 Naramon Transmute Core, UNCOMMON, 3.16%
+
+
+[ProjectSinisterRewardsBasic]
+
+
+[ProjectSinisterRewardsBonus]
+
+Rotation A:
+  1 Shrapnel Shot, UNCOMMON, 5.61%
+  1 Catalyzer Link, UNCOMMON, 5.61%
+  1 Hydraulic Crosshairs, UNCOMMON, 5.61%
+  1 Body Count, UNCOMMON, 5.61%
+  5 Rare Fusion Core, COMMON, 38.52%
+  25 Rare Fusion Core, LEGENDARY, 0.51%
+  1 Focused Defense, COMMON, 38.52%
+
+Rotation B:
+  1 Hydraulic Crosshairs, COMMON, 37.94%
+  1 Body Count, COMMON, 37.94%
+  1 Blood Rush, UNCOMMON, 3.69%
+  1 Sharpened Bullets, UNCOMMON, 3.69%
+  1 Bladed Rounds, UNCOMMON, 3.69%
+  1 Embedded Catalyzer, UNCOMMON, 3.69%
+  1 Nano-Applicator, RARE, 1.01%
+  1 Argon Scope, RARE, 1.01%
+  1 Guided Ordnance, UNCOMMON, 3.69%
+  1 Targeting Subsystem, UNCOMMON, 3.69%
+
+Rotation C:
+  1 Shrapnel Shot, COMMON, 37.94%
+  1 Catalyzer Link, COMMON, 37.94%
+  1 Laser Sight, UNCOMMON, 5.53%
+  1 Weeping Wounds, UNCOMMON, 5.53%
+  1 Spring-Loaded Chamber, UNCOMMON, 5.53%
+  1 Repeater Clip, UNCOMMON, 5.53%
+  1 Maiming Strike, RARE, 0.67%
+  1 Pressurized Magazine, RARE, 0.67%
+  1 Narrow Barrel, RARE, 0.67%
+
+
+[ProjectSinisterRewardsFinal]
+
+Rotation A:
+  1 Shrapnel Shot, COMMON, 10.84%
+  1 Catalyzer Link, COMMON, 10.84%
+  1 Hydraulic Crosshairs, COMMON, 10.84%
+  1 Blood Rush, COMMON, 10.84%
+  1 Sharpened Bullets, UNCOMMON, 2.21%
+  1 Bladed Rounds, UNCOMMON, 2.21%
+  1 Body Count, UNCOMMON, 2.21%
+  1 Embedded Catalyzer, UNCOMMON, 2.21%
+  1 Laser Sight, UNCOMMON, 2.21%
+  1 Weeping Wounds, UNCOMMON, 2.21%
+  1 Spring-Loaded Chamber, UNCOMMON, 2.21%
+  1 Repeater Clip, UNCOMMON, 2.21%
+  1 Maiming Strike, RARE, 0.67%
+  1 Nano-Applicator, RARE, 0.67%
+  1 Argon Scope, COMMON, 10.84%
+  1 Pressurized Magazine, COMMON, 10.84%
+  1 Targeting Subsystem, UNCOMMON, 2.21%
+  1 Guided Ordnance, UNCOMMON, 2.21%
+  1 Narrow Barrel, RARE, 0.67%
+  1 Focused Defense, COMMON, 10.84%
+
+
+[ProjectUndermineBonusRewards]
+
+
+[ProjectUndermineRewards]
+
+
+[PVPMissionRewards/CTFRewards]
+ - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER
+ - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER
+ - Neptune, Cephalon Capture, MT_PVP, FC_CORPUS
+
+
+[PVPMissionRewards/DMRewards]
+ - Saturn, Annihilation, MT_PVP, FC_GRINEER
+ - Saturn, Annihilation, MT_PVP, FC_GRINEER
+ - Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER
+ - Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER
+
+
+[PVPMissionRewards/TDMRewards]
+ - Saturn, Team Annihilation, MT_PVP, FC_GRINEER
+ - Saturn, Team Annihilation, MT_PVP, FC_GRINEER
+
+
+[RaidRewards/GolemRaid]
+
+
+[RaidRewards/HekRaid]
+
+
+[RaidRewards/NightmareHekRaid]
+
+
+[RaidRewards/NightmareResourceHekRaid]
+
+
+[RescueMissionRewards/RescueMissionRewardsEasy]
+ - Mercury, Caloris, MT_RESCUE, FC_GRINEER
+ - Venus, V Prime, MT_RESCUE, FC_CORPUS
+ - Venus, Linea, MT_RESCUE, FC_CORPUS
+ - Mars, Augustus, MT_RESCUE, FC_GRINEER
+ - Ceres, Olla, MT_RESCUE, FC_GRINEER
+ - Ceres, Nuovo, MT_RESCUE, FC_GRINEER
+ - Sedna, Jengu, MT_RESCUE, FC_GRINEER
+ - Phobos, Monolith, MT_RESCUE, FC_CORPUS
+
+
+[RescueMissionRewards/RescueMissionRewardsHard]
+ - Uranus, Mab, MT_RESCUE, FC_GRINEER
+ - Uranus, Caliban, MT_RESCUE, FC_GRINEER
+ - Neptune, Triton, MT_RESCUE, FC_CORPUS
+ - Pluto, Regna, MT_RESCUE, FC_CORPUS
+ - Eris, Brugia, MT_RESCUE, FC_INFESTATION
+ - Eris, Ranova, MT_RESCUE, FC_INFESTATION
+ - Eris, Sparga, MT_RESCUE, FC_INFESTATION
+ - Sedna, Naga, MT_RESCUE, FC_GRINEER
+ - LUA, Zeipel, MT_RESCUE, FC_CORPUS
+
+
+[RescueMissionRewards/RescueMissionRewardsMedium]
+ - Earth, Pacific, MT_RESCUE, FC_GRINEER
+ - Jupiter, Metis, MT_RESCUE, FC_CORPUS
+ - Saturn, Mimas, MT_RESCUE, FC_GRINEER
+ - Saturn, Numa, MT_RESCUE, FC_GRINEER
+ - Sedna, Veles, MT_RESCUE, FC_GRINEER
+ - Europa, Eligor, MT_RESCUE, FC_CORPUS
+ - Europa, Shax, MT_RESCUE, FC_CORPUS
+ - Europa, Orias, MT_RESCUE, FC_CORPUS
+
+
+[RescueMissionRewards/RescueMissionRewardsNightmare]
+
+
+[SortieRewards]
+
+Rotation A:
+  25 Rare Fusion Core, COMMON, 7.55%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 DERA VANDAL BLUEPRINT, COMMON, 7.55%
+  1 DERA VANDAL BARREL, COMMON, 7.55%
+  1 DERA VANDAL RECEIVER, UNCOMMON, 5.5%
+  1 DERA VANDAL STOCK, UNCOMMON, 5.5%
+  1 KARAK WRAITH BARREL, COMMON, 7.55%
+  1 KARAK WRAITH RECEIVER, UNCOMMON, 5.5%
+  1 KARAK WRAITH STOCK, UNCOMMON, 5.5%
+  1 KARAK WRAITH BLUEPRINT, COMMON, 7.55%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 Rare Fusion Core, LEGENDARY, 0.17%
+
+
+[SortieRewardsB]
+
+Rotation A:
+  25 Rare Fusion Core, COMMON, 9.44%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 DERA VANDAL BLUEPRINT, COMMON, 9.44%
+  1 DERA VANDAL BARREL, COMMON, 9.44%
+  1 DERA VANDAL RECEIVER, UNCOMMON, 11%
+  1 DERA VANDAL STOCK, UNCOMMON, 11%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 9.44%
+  1 VAZARIN LENS, COMMON, 9.44%
+  1 ZENURIK LENS, COMMON, 9.44%
+  1 NARAMON LENS, COMMON, 9.44%
+  1 UNAIRU LENS, COMMON, 9.44%
+  50 Rare Fusion Core, LEGENDARY, 0.17%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+
+
+[SortieRewardsC]
+
+Rotation A:
+  25 Rare Fusion Core, COMMON, 7.55%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 KARAK WRAITH BLUEPRINT, COMMON, 7.55%
+  1 KARAK WRAITH BARREL, COMMON, 7.55%
+  1 KARAK WRAITH RECEIVER, UNCOMMON, 7.33%
+  1 KARAK WRAITH STOCK, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 Rare Fusion Core, LEGENDARY, 0.17%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+
+
+[SortieRewardsD]
+
+Rotation A:
+  25 Rare Fusion Core, COMMON, 7.55%
+  1 PYRA SYANDANA, RARE, 1%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 STRUN WRAITH BLUEPRINT, COMMON, 7.55%
+  1 STRUN WRAITH BARREL, COMMON, 7.55%
+  1 STRUN WRAITH RECEIVER, UNCOMMON, 7.33%
+  1 STRUN WRAITH STOCK, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 Rare Fusion Core, LEGENDARY, 0.17%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+
+
+[SortieRewardsE]
+
+Rotation A:
+  25 Rare Fusion Core, COMMON, 7.55%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 SHEEV BLUEPRINT, COMMON, 7.55%
+  1 SHEEV HILT, COMMON, 7.55%
+  1 SHEEV BLADE, UNCOMMON, 7.33%
+  1 SHEEV HEATSINK, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 Rare Fusion Core, LEGENDARY, 0.17%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+
+
+[SortieRewardsF]
+
+Rotation A:
+  25 Rare Fusion Core, COMMON, 7.55%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 SNIPETRON VANDAL BLUEPRINT, COMMON, 7.55%
+  1 SNIPETRON VANDAL STOCK, COMMON, 7.55%
+  1 SNIPETRON VANDAL RECEIVER, UNCOMMON, 7.33%
+  1 SNIPETRON VANDAL BARREL, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 Rare Fusion Core, LEGENDARY, 0.17%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+
+
+[SortieRewardsG]
+
+Rotation A:
+  25 Rare Fusion Core, COMMON, 7.55%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 DERA VANDAL BLUEPRINT, COMMON, 7.55%
+  1 DERA VANDAL BARREL, COMMON, 7.55%
+  1 DERA VANDAL RECEIVER, UNCOMMON, 7.33%
+  1 DERA VANDAL STOCK, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 Rare Fusion Core, LEGENDARY, 0.17%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+
+
+[SortieRewardsH]
+
+Rotation A:
+  25 Rare Fusion Core, COMMON, 7.55%
+  1 Legendary Core, LEGENDARY, 0.17%
+  1 LATRON WRAITH BLUEPRINT, COMMON, 7.55%
+  1 LATRON WRAITH BARREL, COMMON, 7.55%
+  1 LATRON WRAITH RECEIVER, UNCOMMON, 7.33%
+  1 LATRON WRAITH STOCK, UNCOMMON, 7.33%
+  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+  1 MADURAI LENS, COMMON, 7.55%
+  1 VAZARIN LENS, COMMON, 7.55%
+  1 ZENURIK LENS, COMMON, 7.55%
+  1 NARAMON LENS, COMMON, 7.55%
+  1 UNAIRU LENS, COMMON, 7.55%
+  50 Rare Fusion Core, LEGENDARY, 0.17%
+  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+
+
+[SpyMissionRewards/SpyHighMissionRewards]
+ - Uranus, Rosalind, MT_INTEL, FC_GRINEER
+ - Neptune, Laomedeia, MT_INTEL, FC_CORPUS
+ - Pluto, Oceanum, MT_INTEL, FC_CORPUS
+ - Eris, Cyath, MT_INTEL, FC_INFESTATION
+ - Eris, Gnathos, MT_INTEL, FC_CORPUS
+ - Sedna, Kappa, MT_INTEL, FC_GRINEER
+ - Sedna, Tikoloshe, MT_INTEL, FC_GRINEER
+
+
+[SpyMissionRewards/SpyLowMissionRewards]
+ - Mercury, Suisei, MT_INTEL, FC_GRINEER
+ - Venus, Vesper, MT_INTEL, FC_CORPUS
+ - Venus, Unda, MT_INTEL, FC_CORPUS
+ - Earth, Cambria, MT_INTEL, FC_GRINEER
+ - Mars, Arval, MT_INTEL, FC_GRINEER
+ - Ceres, Bode, MT_INTEL, FC_GRINEER
+ - Ceres, Hapke, MT_INTEL, FC_GRINEER
+ - Phobos, Grildrig, MT_INTEL, FC_GRINEER
+ - Phobos, Shklovsky, MT_INTEL, FC_CORPUS
+
+
+[SpyMissionRewards/SpyMediumMissionRewards]
+ - Jupiter, Adrastea, MT_INTEL, FC_CORPUS
+ - Saturn, Dione, MT_INTEL, FC_GRINEER
+ - Saturn, Aegaeon, MT_INTEL, FC_GRINEER
+ - Europa, Valac, MT_INTEL, FC_CORPUS
+
+
+[SpyMissionRewards/SpyMoonMissionRewards]
+ - LUA, Pavlov, MT_INTEL, FC_CORPUS
+
+
+[SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards]
+ - Uranus, Assur, MT_SURVIVAL, FC_INFESTATION
+ - Neptune, Kelashin, MT_SURVIVAL, FC_INFESTATION
+ - Sedna, Amarna, MT_SURVIVAL, FC_INFESTATION
+ - Europa, Cholistan, MT_EXCAVATE, FC_INFESTATION
+
+Rotation A:
+  1 3000 CREDITS, COMMON, 25%
+  1 4000 CREDITS, COMMON, 25%
+  1 4000 CREDITS, COMMON, 25%
+  5 Rare Fusion Core, COMMON, 25%
+
+Rotation B:
+  Attenuation: 0.4
+  1 MESO D1 RELIC, UNCOMMON, 3.76%
+  1 MESO V1 RELIC, UNCOMMON, 3.76%
+  1 MESO C1 RELIC, UNCOMMON, 3.76%
+  1 MESO V2 RELIC, UNCOMMON, 3.76%
+  1 MESO N1 RELIC, UNCOMMON, 3.76%
+  1 MESO N2 RELIC, UNCOMMON, 3.76%
+  1 NEO S1 RELIC, COMMON, 12.91%
+  1 NEO S3 RELIC, COMMON, 12.91%
+  1 NEO N1 RELIC, COMMON, 12.91%
+  1 NEO N2 RELIC, COMMON, 12.91%
+  1 NEO S2 RELIC, COMMON, 12.91%
+  1 NEO V1 RELIC, COMMON, 12.91%
+
+Rotation C:
+  1 4000 CREDITS, COMMON, 4.35%
+  1 4000 CREDITS, COMMON, 4.35%
+  1 Steady Hands, COMMON, 4.35%
+  1 Stabilizer, COMMON, 4.35%
+  1 Power Throw, COMMON, 4.35%
+  1 Steel Fiber, COMMON, 4.35%
+  1 Stretch, COMMON, 4.35%
+  1 Serration, COMMON, 4.35%
+  1 Hell's Chamber, COMMON, 4.35%
+  1 Cleanse Infested, COMMON, 4.35%
+  1 Sundering Strike, COMMON, 4.35%
+  1 Hornet Strike, COMMON, 4.35%
+  1 Flow, COMMON, 4.35%
+  1 Split Chamber, COMMON, 4.35%
+  1 Pistol Ammo Mutation, COMMON, 4.35%
+  1 Arrow Mutation, COMMON, 4.35%
+  1 Rifle Ammo Mutation, COMMON, 4.35%
+  1 Sniper Ammo Mutation, COMMON, 4.35%
+  1 Shotgun Ammo Mutation, COMMON, 4.35%
+  1 True Punishment, COMMON, 4.35%
+  1 Quickening, COMMON, 4.35%
+  1 Enduring Strike, COMMON, 4.35%
+  1 Life Strike, COMMON, 4.35%
+
+
+[SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards]
+ - Venus, Malva, MT_SURVIVAL, FC_INFESTATION
+ - Earth, Tikal, MT_EXCAVATE, FC_INFESTATION
+ - Ceres, Gabii, MT_SURVIVAL, FC_INFESTATION
+
+Rotation A:
+  1 500 CREDITS, COMMON, 14.29%
+  1 1000 CREDITS, COMMON, 14.29%
+  1 1500 CREDITS, COMMON, 14.29%
+  1 2000 CREDITS, COMMON, 14.29%
+  1 Common Fusion Core, COMMON, 14.29%
+  1 Uncommon Fusion Core, COMMON, 14.29%
+  1 Rare Fusion Core, COMMON, 14.29%
+
+Rotation B:
+  1 LITH S2 RELIC, COMMON, 16.67%
+  1 LITH A1 RELIC, COMMON, 16.67%
+  1 LITH S1 RELIC, COMMON, 16.67%
+  1 LITH V1 RELIC, COMMON, 16.67%
+  1 LITH F1 RELIC, COMMON, 16.67%
+  1 LITH F2 RELIC, COMMON, 16.67%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 5%
+  1 3000 CREDITS, COMMON, 5%
+  1 Reflection, COMMON, 5%
+  1 Reflex Guard, COMMON, 5%
+  1 Parry, COMMON, 5%
+  1 Steel Fiber, COMMON, 5%
+  1 Heavy Impact, COMMON, 5%
+  1 Serration, COMMON, 5%
+  1 Incendiary Coat, COMMON, 5%
+  1 Cleanse Grineer, COMMON, 5%
+  1 Hornet Strike, COMMON, 5%
+  1 Intensify, COMMON, 5%
+  1 Metal Auger, COMMON, 5%
+  1 Reflex Coil, COMMON, 5%
+  1 Arrow Mutation, COMMON, 5%
+  1 Rifle Ammo Mutation, COMMON, 5%
+  1 Sniper Ammo Mutation, COMMON, 5%
+  1 Shotgun Ammo Mutation, COMMON, 5%
+  1 Pistol Ammo Mutation, COMMON, 5%
+  1 True Punishment, COMMON, 5%
+
+
+[SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards]
+ - Mars, Wahiba, MT_SURVIVAL, FC_INFESTATION
+ - Jupiter, Cameria, MT_SURVIVAL, FC_INFESTATION
+ - Saturn, Piscinas, MT_SURVIVAL, FC_INFESTATION
+ - Phobos, Zeugma, MT_SURVIVAL, FC_INFESTATION
+
+Rotation A:
+  1 2000 CREDITS, COMMON, 16.67%
+  1 2500 CREDITS, COMMON, 16.67%
+  1 3000 CREDITS, COMMON, 16.67%
+  1 Common Fusion Core, COMMON, 16.67%
+  1 Uncommon Fusion Core, COMMON, 16.67%
+  1 Rare Fusion Core, COMMON, 16.67%
+
+Rotation B:
+  Attenuation: 0.1
+  1 MESO D1 RELIC, COMMON, 12.91%
+  1 MESO V1 RELIC, COMMON, 12.91%
+  1 MESO C1 RELIC, COMMON, 12.91%
+  1 MESO V2 RELIC, COMMON, 12.91%
+  1 MESO N1 RELIC, COMMON, 12.91%
+  1 MESO N2 RELIC, COMMON, 12.91%
+  1 NEO S1 RELIC, UNCOMMON, 3.76%
+  1 NEO S3 RELIC, UNCOMMON, 3.76%
+  1 NEO N1 RELIC, UNCOMMON, 3.76%
+  1 NEO N2 RELIC, UNCOMMON, 3.76%
+  1 NEO S2 RELIC, UNCOMMON, 3.76%
+  1 NEO V1 RELIC, UNCOMMON, 3.76%
+
+Rotation C:
+  1 3000 CREDITS, COMMON, 4.55%
+  1 4000 CREDITS, COMMON, 4.55%
+  1 Provoked, COMMON, 4.55%
+  1 Finishing Touch, COMMON, 4.55%
+  1 Spare Parts, COMMON, 4.55%
+  1 Steel Fiber, COMMON, 4.55%
+  1 Serration, COMMON, 4.55%
+  1 Hornet Strike, COMMON, 4.55%
+  1 Fast Deflection, COMMON, 4.55%
+  1 Charged Shell, COMMON, 4.55%
+  1 Cleanse Corpus, COMMON, 4.55%
+  1 Killing Blow, COMMON, 4.55%
+  1 Antitoxin, COMMON, 4.55%
+  1 Vital Sense, COMMON, 4.55%
+  1 Pistol Ammo Mutation, COMMON, 4.55%
+  1 Arrow Mutation, COMMON, 4.55%
+  1 Rifle Ammo Mutation, COMMON, 4.55%
+  1 Sniper Ammo Mutation, COMMON, 4.55%
+  1 Shotgun Ammo Mutation, COMMON, 4.55%
+  1 True Punishment, COMMON, 4.55%
+  1 Quickening, COMMON, 4.55%
+  1 Enduring Strike, COMMON, 4.55%
+
+
+[SurvivalMissionRewards/SurvivalBadlandsUltraLevelRewards]
+ - Pluto, Hieracon, MT_EXCAVATE, FC_INFESTATION
+ - Eris, Zabala, MT_SURVIVAL, FC_INFESTATION
+
+Rotation A:
+  1 3000 CREDITS, COMMON, 25%
+  1 4000 CREDITS, COMMON, 25%
+  1 4000 CREDITS, COMMON, 25%
+  5 Rare Fusion Core, COMMON, 25%
+
+Rotation B:
+  Attenuation: 0.3
+  1 AXI S1 RELIC, COMMON, 11.06%
+  1 AXI N2 RELIC, COMMON, 11.06%
+  1 AXI V3 RELIC, COMMON, 11.06%
+  1 AXI V1 RELIC, COMMON, 11.06%
+  1 AXI K1 RELIC, COMMON, 11.06%
+  1 AXI A1 RELIC, COMMON, 11.06%
+  1 AXI N1 RELIC, COMMON, 11.06%
+  1 NEO S1 RELIC, UNCOMMON, 3.76%
+  1 NEO S3 RELIC, UNCOMMON, 3.76%
+  1 NEO N1 RELIC, UNCOMMON, 3.76%
+  1 NEO N2 RELIC, UNCOMMON, 3.76%
+  1 NEO S2 RELIC, UNCOMMON, 3.76%
+  1 NEO V1 RELIC, UNCOMMON, 3.76%
+
+Rotation C:
+  1 4000 CREDITS, COMMON, 4.35%
+  1 4000 CREDITS, COMMON, 4.35%
+  1 Steady Hands, COMMON, 4.35%
+  1 Stabilizer, COMMON, 4.35%
+  1 Power Throw, COMMON, 4.35%
+  1 Steel Fiber, COMMON, 4.35%
+  1 Stretch, COMMON, 4.35%
+  1 Serration, COMMON, 4.35%
+  1 Hell's Chamber, COMMON, 4.35%
+  1 Cleanse Infested, COMMON, 4.35%
+  1 Sundering Strike, COMMON, 4.35%
+  1 Hornet Strike, COMMON, 4.35%
+  1 Flow, COMMON, 4.35%
+  1 Split Chamber, COMMON, 4.35%
+  1 Pistol Ammo Mutation, COMMON, 4.35%
+  1 Arrow Mutation, COMMON, 4.35%
+  1 Rifle Ammo Mutation, COMMON, 4.35%
+  1 Sniper Ammo Mutation, COMMON, 4.35%
+  1 Shotgun Ammo Mutation, COMMON, 4.35%
+  1 True Punishment, COMMON, 4.35%
+  1 Quickening, COMMON, 4.35%
+  1 Enduring Strike, COMMON, 4.35%
+  1 Life Strike, COMMON, 4.35%
+
+
+[SurvivalMissionRewards/SurvivalGeneticFoundryRewards]
+
+Rotation B:
+  1 2000 CREDITS, COMMON, 33.33%
+  1 4000 CREDITS, COMMON, 33.33%
+  1 Rare Fusion Core, COMMON, 33.33%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 33.33%
+  1 4000 CREDITS, COMMON, 33.33%
+  1 Rare Fusion Core, COMMON, 33.33%
+
+
+[SurvivalMissionRewards/SurvivalHighLevelRewards]
+ - Uranus, Ophelia, MT_SURVIVAL, FC_GRINEER
+ - Uranus, Cupid, MT_SURVIVAL, FC_GRINEER
+ - Neptune, Despina, MT_EXCAVATE, FC_CORPUS
+ - Pluto, Palus, MT_SURVIVAL, FC_CORPUS
+ - Eris, Hymeno, MT_SURVIVAL, FC_INFESTATION
+ - Eris, Nimus, MT_SURVIVAL, FC_INFESTATION
+ - Sedna, Selkie, MT_SURVIVAL, FC_GRINEER
+ - Sedna, Scylla, MT_SURVIVAL, FC_GRINEER
+ - Sedna, Yemaja, MT_SURVIVAL, FC_GRINEER
+ - Europa, Cryotic Front, MT_EXCAVATE, FC_CORPUS
+ - LUA, Tycho, MT_SURVIVAL, FC_CORPUS
+
+Rotation A:
+  1 2000 CREDITS, COMMON, 25%
+  1 2500 CREDITS, COMMON, 25%
+  1 3000 CREDITS, COMMON, 25%
+  5 Rare Fusion Core, COMMON, 25%
+
+Rotation B:
+  Attenuation: 0.4
+  1 AXI S1 RELIC, UNCOMMON, 3.22%
+  1 AXI N2 RELIC, UNCOMMON, 3.22%
+  1 AXI V3 RELIC, UNCOMMON, 3.22%
+  1 AXI K1 RELIC, UNCOMMON, 3.22%
+  1 AXI N1 RELIC, UNCOMMON, 3.22%
+  1 AXI V1 RELIC, UNCOMMON, 3.22%
+  1 AXI A1 RELIC, UNCOMMON, 3.22%
+  1 NEO S1 RELIC, COMMON, 12.91%
+  1 NEO S3 RELIC, COMMON, 12.91%
+  1 NEO N1 RELIC, COMMON, 12.91%
+  1 NEO N2 RELIC, COMMON, 12.91%
+  1 NEO S2 RELIC, COMMON, 12.91%
+  1 NEO V1 RELIC, COMMON, 12.91%
+
+Rotation C:
+  1 4000 CREDITS, COMMON, 5.26%
+  1 4000 CREDITS, COMMON, 5.26%
+  1 Steady Hands, COMMON, 5.26%
+  1 Stabilizer, COMMON, 5.26%
+  1 Power Throw, COMMON, 5.26%
+  1 Steel Fiber, COMMON, 5.26%
+  1 Stretch, COMMON, 5.26%
+  1 Serration, COMMON, 5.26%
+  1 Hell's Chamber, COMMON, 5.26%
+  1 Cleanse Infested, COMMON, 5.26%
+  1 Sundering Strike, COMMON, 5.26%
+  1 Hornet Strike, COMMON, 5.26%
+  1 Flow, COMMON, 5.26%
+  1 Split Chamber, COMMON, 5.26%
+  1 Pistol Ammo Mutation, COMMON, 5.26%
+  1 Arrow Mutation, COMMON, 5.26%
+  1 Rifle Ammo Mutation, COMMON, 5.26%
+  1 Sniper Ammo Mutation, COMMON, 5.26%
+  1 Shotgun Ammo Mutation, COMMON, 5.26%
+
+
+[SurvivalMissionRewards/SurvivalLowLevelRewards]
+ - Mercury, Apollodorus, MT_SURVIVAL, FC_INFESTATION
+ - Venus, Kiliken, MT_EXCAVATE, FC_CORPUS
+ - Earth, Cervantes, MT_EXCAVATE, FC_GRINEER
+ - Mars, Arcadia, MT_SURVIVAL, FC_CORPUS
+ - Mars, Alator, MT_TERRITORY, FC_GRINEER
+ - Mars, Martialis, MT_EXCAVATE, FC_GRINEER
+ - Phobos, Wendell, MT_EXCAVATE, FC_GRINEER
+ - Phobos, Flimnap, MT_SURVIVAL, FC_GRINEER
+
+Rotation A:
+  1 500 CREDITS, COMMON, 14.29%
+  1 1000 CREDITS, COMMON, 14.29%
+  1 1500 CREDITS, COMMON, 14.29%
+  1 2000 CREDITS, COMMON, 14.29%
+  1 Common Fusion Core, COMMON, 14.29%
+  1 Uncommon Fusion Core, COMMON, 14.29%
+  1 Rare Fusion Core, COMMON, 14.29%
+
+Rotation B:
+  1 LITH S2 RELIC, COMMON, 16.67%
+  1 LITH A1 RELIC, COMMON, 16.67%
+  1 LITH S1 RELIC, COMMON, 16.67%
+  1 LITH V1 RELIC, COMMON, 16.67%
+  1 LITH F1 RELIC, COMMON, 16.67%
+  1 LITH F2 RELIC, COMMON, 16.67%
+
+Rotation C:
+  1 2000 CREDITS, COMMON, 5.26%
+  1 3000 CREDITS, COMMON, 5.26%
+  1 Reflection, COMMON, 5.26%
+  1 Reflex Guard, COMMON, 5.26%
+  1 Parry, COMMON, 5.26%
+  1 Steel Fiber, COMMON, 5.26%
+  1 Heavy Impact, COMMON, 5.26%
+  1 Serration, COMMON, 5.26%
+  1 Incendiary Coat, COMMON, 5.26%
+  1 Cleanse Grineer, COMMON, 5.26%
+  1 Hornet Strike, COMMON, 5.26%
+  1 Intensify, COMMON, 5.26%
+  1 Metal Auger, COMMON, 5.26%
+  1 Reflex Coil, COMMON, 5.26%
+  1 Arrow Mutation, COMMON, 5.26%
+  1 Rifle Ammo Mutation, COMMON, 5.26%
+  1 Sniper Ammo Mutation, COMMON, 5.26%
+  1 Shotgun Ammo Mutation, COMMON, 5.26%
+  1 Pistol Ammo Mutation, COMMON, 5.26%
+
+
+[SurvivalMissionRewards/SurvivalMidLevelRewards]
+ - Jupiter, Elara, MT_SURVIVAL, FC_CORPUS
+ - Saturn, Titan, MT_SURVIVAL, FC_GRINEER
+ - Ceres, Draco, MT_SURVIVAL, FC_GRINEER
+ - Europa, Lillith, MT_EXCAVATE, FC_CORPUS
+ - Europa, Valefor, MT_EXCAVATE, FC_CORPUS
+ - Europa, Zagan, MT_SURVIVAL, FC_CORPUS
+ - Void, Ani, MT_SURVIVAL, FC_OROKIN
+ - Phobos, Stickney, MT_SURVIVAL, FC_CORPUS
+
+Rotation A:
+  1 1500 CREDITS, COMMON, 16.67%
+  1 2000 CREDITS, COMMON, 16.67%
+  1 2500 CREDITS, COMMON, 16.67%
+  1 Common Fusion Core, COMMON, 16.67%
+  1 Uncommon Fusion Core, COMMON, 16.67%
+  1 Rare Fusion Core, COMMON, 16.67%
+
+Rotation B:
+  Attenuation: 0.1
+  1 MESO D1 RELIC, COMMON, 12.91%
+  1 MESO V1 RELIC, COMMON, 12.91%
+  1 MESO C1 RELIC, COMMON, 12.91%
+  1 MESO V2 RELIC, COMMON, 12.91%
+  1 MESO N1 RELIC, COMMON, 12.91%
+  1 MESO N2 RELIC, COMMON, 12.91%
+  1 NEO S1 RELIC, UNCOMMON, 3.76%
+  1 NEO S3 RELIC, UNCOMMON, 3.76%
+  1 NEO N1 RELIC, UNCOMMON, 3.76%
+  1 NEO N2 RELIC, UNCOMMON, 3.76%
+  1 NEO S2 RELIC, UNCOMMON, 3.76%
+  1 NEO V1 RELIC, UNCOMMON, 3.76%
+
+Rotation C:
+  1 3000 CREDITS, COMMON, 5.26%
+  1 4000 CREDITS, COMMON, 5.26%
+  1 Provoked, COMMON, 5.26%
+  1 Finishing Touch, COMMON, 5.26%
+  1 Spare Parts, COMMON, 5.26%
+  1 Steel Fiber, COMMON, 5.26%
+  1 Serration, COMMON, 5.26%
+  1 Hornet Strike, COMMON, 5.26%
+  1 Fast Deflection, COMMON, 5.26%
+  1 Charged Shell, COMMON, 5.26%
+  1 Cleanse Corpus, COMMON, 5.26%
+  1 Killing Blow, COMMON, 5.26%
+  1 Antitoxin, COMMON, 5.26%
+  1 Vital Sense, COMMON, 5.26%
+  1 Pistol Ammo Mutation, COMMON, 5.26%
+  1 Arrow Mutation, COMMON, 5.26%
+  1 Rifle Ammo Mutation, COMMON, 5.26%
+  1 Sniper Ammo Mutation, COMMON, 5.26%
+  1 Shotgun Ammo Mutation, COMMON, 5.26%
+
+
+[SurvivalMissionRewards/SurvivalUltraLevelRewards]
+ - Void, Mot, MT_SURVIVAL, FC_OROKIN
+
+Rotation A:
+  1 3000 CREDITS, COMMON, 25%
+  1 4000 CREDITS, COMMON, 25%
+  1 4000 CREDITS, COMMON, 25%
+  5 Rare Fusion Core, COMMON, 25%
+
+Rotation B:
+  Attenuation: 0.3
+  1 AXI S1 RELIC, COMMON, 11.06%
+  1 AXI N2 RELIC, COMMON, 11.06%
+  1 AXI V3 RELIC, COMMON, 11.06%
+  1 AXI K1 RELIC, COMMON, 11.06%
+  1 AXI N1 RELIC, COMMON, 11.06%
+  1 AXI V1 RELIC, COMMON, 11.06%
+  1 AXI A1 RELIC, COMMON, 11.06%
+  1 NEO S1 RELIC, UNCOMMON, 3.76%
+  1 NEO S3 RELIC, UNCOMMON, 3.76%
+  1 NEO N1 RELIC, UNCOMMON, 3.76%
+  1 NEO N2 RELIC, UNCOMMON, 3.76%
+  1 NEO S2 RELIC, UNCOMMON, 3.76%
+  1 NEO V1 RELIC, UNCOMMON, 3.76%
+
+Rotation C:
+  1 4000 CREDITS, COMMON, 5.26%
+  1 4000 CREDITS, COMMON, 5.26%
+  1 Steady Hands, COMMON, 5.26%
+  1 Stabilizer, COMMON, 5.26%
+  1 Power Throw, COMMON, 5.26%
+  1 Steel Fiber, COMMON, 5.26%
+  1 Stretch, COMMON, 5.26%
+  1 Serration, COMMON, 5.26%
+  1 Hell's Chamber, COMMON, 5.26%
+  1 Cleanse Infested, COMMON, 5.26%
+  1 Sundering Strike, COMMON, 5.26%
+  1 Hornet Strike, COMMON, 5.26%
+  1 Flow, COMMON, 5.26%
+  1 Split Chamber, COMMON, 5.26%
+  1 Pistol Ammo Mutation, COMMON, 5.26%
+  1 Arrow Mutation, COMMON, 5.26%
+  1 Rifle Ammo Mutation, COMMON, 5.26%
+  1 Sniper Ammo Mutation, COMMON, 5.26%
+  1 Shotgun Ammo Mutation, COMMON, 5.26%
+
+
+[VaultRewards]
+
+
 [VoidKeyMissionRewards/MagPrimeVaultA]
  - LITH M1 RELIC
 
